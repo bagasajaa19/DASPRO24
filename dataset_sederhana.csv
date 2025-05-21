@@ -1,0 +1,1001 @@
+,ID,Usia,Jenis_Kelamin,Pendapatan_Bulanan,Status_Pekerjaan,Skor_Kredit,Jumlah_Transaksi,Kategori_Belanja,Kepemilikan_Properti,Label_Klasifikasi
+0,1,63,Laki-laki,24,Pelajar,788,64,Makanan,Ya,Tidak Layak
+1,2,21,Laki-laki,28,Pekerja,767,82,Makanan,Tidak,Tidak Layak
+2,3,60,Perempuan,39,Pekerja,777,75,Makanan,Tidak,Tidak Layak
+3,4,57,Laki-laki,16,Tidak Bekerja,808,76,Energi,Ya,Tidak Layak
+4,5,40,Laki-laki,39,Pelajar,460,8,Elektronik,Ya,Layak
+5,6,53,Perempuan,44,Pelajar,352,52,Fashion,Ya,Tidak Layak
+6,7,40,Laki-laki,20,Tidak Bekerja,402,91,Energi,Ya,Layak
+7,8,38,Perempuan,29,Pekerja,819,36,Fashion,Tidak,Layak
+8,9,34,Perempuan,40,Tidak Bekerja,569,1,Energi,Ya,Layak
+9,10,37,Laki-laki,10,Tidak Bekerja,459,26,Makanan,Ya,Layak
+10,11,48,Perempuan,5,Pekerja,747,24,Energi,Tidak,Layak
+11,12,55,Perempuan,47,Pelajar,320,94,Fashion,Ya,Layak
+12,13,19,Laki-laki,22,Tidak Bekerja,586,28,Fashion,Ya,Tidak Layak
+13,14,56,Perempuan,37,Tidak Bekerja,719,93,Makanan,Ya,Layak
+14,15,43,Perempuan,28,Tidak Bekerja,808,41,Energi,Ya,Layak
+15,16,30,Laki-laki,40,Tidak Bekerja,667,43,Elektronik,Tidak,Layak
+16,17,48,Perempuan,20,Pelajar,429,69,Makanan,Ya,Layak
+17,18,58,Perempuan,41,Tidak Bekerja,544,12,Makanan,Ya,Tidak Layak
+18,19,64,Laki-laki,25,Pelajar,626,9,Energi,Tidak,Tidak Layak
+19,20,44,Perempuan,38,Pelajar,698,99,Makanan,Ya,Tidak Layak
+20,21,47,Perempuan,19,Tidak Bekerja,458,13,Elektronik,Tidak,Tidak Layak
+21,22,63,Laki-laki,25,Pekerja,302,61,Fashion,Tidak,Layak
+22,23,49,Perempuan,20,Pelajar,618,7,Energi,Tidak,Tidak Layak
+23,24,25,Perempuan,38,Tidak Bekerja,771,52,Fashion,Tidak,Tidak Layak
+24,25,45,Laki-laki,23,Pelajar,710,95,Fashion,Ya,Layak
+25,26,30,Laki-laki,9,Tidak Bekerja,468,38,Elektronik,Tidak,Tidak Layak
+26,27,60,Perempuan,49,Pelajar,816,66,Energi,Ya,Layak
+27,28,33,Laki-laki,45,Pekerja,391,54,Fashion,Ya,Layak
+28,29,19,Laki-laki,25,Pekerja,432,90,Fashion,Tidak,Layak
+29,30,46,Perempuan,44,Pelajar,648,25,Energi,Ya,Layak
+30,31,33,Perempuan,42,Pekerja,428,4,Fashion,Ya,Tidak Layak
+31,32,18,Perempuan,28,Pelajar,577,99,Elektronik,Ya,Layak
+32,33,44,Perempuan,40,Tidak Bekerja,424,90,Elektronik,Ya,Tidak Layak
+33,34,46,Perempuan,15,Pekerja,733,93,Makanan,Tidak,Tidak Layak
+34,35,34,Laki-laki,48,Pekerja,506,44,Fashion,Ya,Layak
+35,36,42,Laki-laki,40,Pekerja,552,70,Energi,Ya,Tidak Layak
+36,37,41,Laki-laki,24,Pelajar,786,30,Energi,Tidak,Tidak Layak
+37,38,26,Perempuan,22,Pekerja,491,28,Makanan,Tidak,Layak
+38,39,47,Perempuan,8,Tidak Bekerja,444,83,Energi,Ya,Tidak Layak
+39,40,24,Laki-laki,21,Tidak Bekerja,733,11,Makanan,Tidak,Layak
+40,41,54,Perempuan,39,Tidak Bekerja,449,20,Elektronik,Ya,Layak
+41,42,63,Laki-laki,24,Pelajar,498,59,Energi,Tidak,Tidak Layak
+42,43,42,Perempuan,45,Pekerja,796,42,Elektronik,Tidak,Tidak Layak
+43,44,38,Laki-laki,26,Pelajar,777,59,Energi,Ya,Tidak Layak
+44,45,39,Laki-laki,20,Pelajar,418,96,Elektronik,Tidak,Layak
+45,46,44,Laki-laki,33,Tidak Bekerja,483,23,Elektronik,Ya,Tidak Layak
+46,47,64,Perempuan,9,Pekerja,329,99,Fashion,Tidak,Layak
+47,48,55,Perempuan,40,Pelajar,590,93,Energi,Tidak,Layak
+48,49,40,Perempuan,7,Pekerja,339,35,Energi,Tidak,Layak
+49,50,19,Perempuan,46,Pelajar,382,89,Makanan,Tidak,Layak
+50,51,64,Perempuan,21,Pekerja,325,20,Fashion,Tidak,Layak
+51,52,32,Perempuan,24,Pelajar,824,46,Energi,Tidak,Tidak Layak
+52,53,47,Laki-laki,39,Tidak Bekerja,430,78,Elektronik,Ya,Tidak Layak
+53,54,21,Laki-laki,16,Tidak Bekerja,743,87,Energi,Tidak,Layak
+54,55,39,Perempuan,23,Pekerja,745,66,Energi,Ya,Layak
+55,56,23,Perempuan,15,Tidak Bekerja,305,83,Energi,Ya,Layak
+56,57,30,Perempuan,43,Pekerja,650,98,Elektronik,Ya,Tidak Layak
+57,58,31,Perempuan,47,Tidak Bekerja,833,90,Makanan,Tidak,Tidak Layak
+58,59,26,Laki-laki,32,Pekerja,546,56,Elektronik,Ya,Layak
+59,60,44,Laki-laki,7,Tidak Bekerja,797,31,Elektronik,Ya,Tidak Layak
+60,61,43,Perempuan,25,Pekerja,568,17,Energi,Ya,Layak
+61,62,38,Laki-laki,37,Pekerja,359,68,Elektronik,Tidak,Tidak Layak
+62,63,55,Laki-laki,35,Tidak Bekerja,343,31,Makanan,Ya,Layak
+63,64,19,Laki-laki,24,Pelajar,703,31,Elektronik,Tidak,Tidak Layak
+64,65,42,Laki-laki,3,Pelajar,539,29,Energi,Tidak,Tidak Layak
+65,66,23,Laki-laki,41,Tidak Bekerja,460,93,Fashion,Ya,Tidak Layak
+66,67,64,Perempuan,21,Pelajar,586,13,Energi,Ya,Tidak Layak
+67,68,40,Laki-laki,5,Tidak Bekerja,510,38,Elektronik,Ya,Layak
+68,69,18,Perempuan,46,Tidak Bekerja,505,21,Makanan,Tidak,Tidak Layak
+69,70,61,Perempuan,15,Tidak Bekerja,488,63,Energi,Tidak,Layak
+70,71,35,Laki-laki,41,Pekerja,770,11,Makanan,Tidak,Layak
+71,72,48,Perempuan,25,Pekerja,373,69,Fashion,Ya,Tidak Layak
+72,73,61,Perempuan,32,Pekerja,771,14,Energi,Ya,Layak
+73,74,54,Perempuan,39,Pekerja,367,73,Fashion,Ya,Tidak Layak
+74,75,35,Laki-laki,20,Pelajar,613,37,Energi,Tidak,Tidak Layak
+75,76,42,Perempuan,10,Pekerja,486,91,Makanan,Tidak,Tidak Layak
+76,77,64,Laki-laki,23,Tidak Bekerja,703,41,Fashion,Tidak,Tidak Layak
+77,78,52,Laki-laki,16,Pelajar,446,63,Fashion,Tidak,Layak
+78,79,54,Perempuan,18,Pekerja,371,48,Fashion,Tidak,Tidak Layak
+79,80,31,Laki-laki,8,Pelajar,824,44,Makanan,Tidak,Tidak Layak
+80,81,26,Perempuan,28,Pekerja,703,10,Makanan,Ya,Tidak Layak
+81,82,21,Laki-laki,4,Tidak Bekerja,831,85,Energi,Tidak,Layak
+82,83,20,Laki-laki,25,Pekerja,616,98,Energi,Ya,Layak
+83,84,41,Perempuan,8,Pekerja,361,11,Elektronik,Ya,Tidak Layak
+84,85,56,Perempuan,28,Pelajar,430,68,Elektronik,Ya,Tidak Layak
+85,86,64,Perempuan,22,Tidak Bekerja,561,43,Elektronik,Ya,Tidak Layak
+86,87,23,Laki-laki,22,Pekerja,626,65,Makanan,Tidak,Layak
+87,88,61,Perempuan,39,Tidak Bekerja,374,83,Elektronik,Tidak,Layak
+88,89,22,Perempuan,35,Pekerja,566,1,Energi,Ya,Layak
+89,90,19,Perempuan,35,Pelajar,839,58,Elektronik,Ya,Tidak Layak
+90,91,56,Perempuan,4,Pekerja,644,7,Makanan,Tidak,Tidak Layak
+91,92,55,Laki-laki,21,Tidak Bekerja,634,3,Makanan,Ya,Tidak Layak
+92,93,21,Laki-laki,44,Pelajar,568,64,Fashion,Ya,Layak
+93,94,35,Laki-laki,5,Pelajar,305,12,Makanan,Tidak,Tidak Layak
+94,95,54,Laki-laki,40,Pekerja,485,26,Makanan,Tidak,Tidak Layak
+95,96,64,Perempuan,9,Pekerja,372,85,Makanan,Tidak,Tidak Layak
+96,97,49,Laki-laki,41,Tidak Bekerja,411,44,Makanan,Ya,Layak
+97,98,42,Perempuan,21,Pekerja,847,46,Makanan,Tidak,Layak
+98,99,54,Perempuan,37,Tidak Bekerja,492,30,Elektronik,Ya,Tidak Layak
+99,100,38,Perempuan,10,Pelajar,512,63,Fashion,Ya,Tidak Layak
+100,101,21,Perempuan,24,Pelajar,500,95,Energi,Tidak,Layak
+101,102,52,Perempuan,8,Pekerja,743,63,Elektronik,Ya,Layak
+102,103,55,Laki-laki,32,Tidak Bekerja,544,51,Makanan,Tidak,Tidak Layak
+103,104,24,Perempuan,25,Pekerja,589,71,Makanan,Tidak,Layak
+104,105,34,Laki-laki,32,Pekerja,343,72,Energi,Ya,Tidak Layak
+105,106,42,Laki-laki,41,Pelajar,506,41,Elektronik,Ya,Layak
+106,107,20,Perempuan,48,Tidak Bekerja,442,91,Elektronik,Tidak,Tidak Layak
+107,108,36,Laki-laki,4,Pekerja,476,21,Fashion,Ya,Tidak Layak
+108,109,25,Perempuan,39,Tidak Bekerja,688,44,Elektronik,Ya,Tidak Layak
+109,110,44,Perempuan,43,Pelajar,758,61,Energi,Ya,Layak
+110,111,36,Perempuan,40,Tidak Bekerja,325,71,Energi,Ya,Layak
+111,112,61,Perempuan,49,Tidak Bekerja,412,89,Makanan,Ya,Layak
+112,113,29,Perempuan,44,Pelajar,759,53,Elektronik,Tidak,Tidak Layak
+113,114,53,Laki-laki,19,Pelajar,770,30,Elektronik,Tidak,Tidak Layak
+114,115,57,Perempuan,13,Pekerja,795,44,Elektronik,Tidak,Layak
+115,116,41,Perempuan,19,Tidak Bekerja,479,18,Fashion,Ya,Tidak Layak
+116,117,23,Perempuan,2,Tidak Bekerja,364,75,Elektronik,Ya,Tidak Layak
+117,118,57,Laki-laki,7,Pelajar,320,68,Energi,Ya,Tidak Layak
+118,119,29,Perempuan,45,Pelajar,478,81,Elektronik,Ya,Tidak Layak
+119,120,39,Perempuan,29,Pekerja,601,81,Fashion,Tidak,Tidak Layak
+120,121,39,Laki-laki,39,Tidak Bekerja,737,60,Energi,Ya,Tidak Layak
+121,122,29,Perempuan,5,Pelajar,666,10,Elektronik,Ya,Tidak Layak
+122,123,49,Laki-laki,40,Tidak Bekerja,610,81,Fashion,Tidak,Tidak Layak
+123,124,30,Laki-laki,38,Pekerja,337,80,Makanan,Ya,Layak
+124,125,33,Perempuan,9,Pelajar,719,33,Energi,Ya,Tidak Layak
+125,126,44,Laki-laki,3,Pekerja,337,68,Fashion,Ya,Tidak Layak
+126,127,23,Laki-laki,35,Pelajar,333,22,Elektronik,Tidak,Layak
+127,128,28,Perempuan,13,Pelajar,369,49,Elektronik,Ya,Layak
+128,129,35,Laki-laki,20,Pekerja,564,14,Fashion,Tidak,Layak
+129,130,27,Laki-laki,34,Pelajar,369,33,Energi,Ya,Layak
+130,131,53,Laki-laki,28,Tidak Bekerja,522,0,Makanan,Tidak,Tidak Layak
+131,132,36,Laki-laki,14,Pekerja,684,25,Elektronik,Tidak,Tidak Layak
+132,133,31,Laki-laki,10,Pekerja,744,31,Energi,Ya,Tidak Layak
+133,134,45,Laki-laki,48,Tidak Bekerja,471,98,Energi,Tidak,Layak
+134,135,60,Laki-laki,10,Tidak Bekerja,828,68,Energi,Tidak,Tidak Layak
+135,136,48,Perempuan,18,Pekerja,647,12,Fashion,Ya,Layak
+136,137,49,Laki-laki,7,Pelajar,832,50,Elektronik,Tidak,Tidak Layak
+137,138,39,Laki-laki,4,Pekerja,733,4,Fashion,Tidak,Layak
+138,139,26,Perempuan,45,Pekerja,489,92,Makanan,Ya,Layak
+139,140,64,Laki-laki,19,Pelajar,847,39,Energi,Tidak,Layak
+140,141,25,Laki-laki,30,Pelajar,457,99,Elektronik,Ya,Layak
+141,142,46,Perempuan,39,Pelajar,472,54,Fashion,Tidak,Tidak Layak
+142,143,28,Laki-laki,27,Pekerja,700,14,Elektronik,Ya,Tidak Layak
+143,144,58,Laki-laki,29,Pekerja,601,42,Elektronik,Tidak,Layak
+144,145,45,Laki-laki,27,Tidak Bekerja,729,30,Makanan,Tidak,Tidak Layak
+145,146,26,Laki-laki,32,Pelajar,609,82,Energi,Ya,Layak
+146,147,31,Laki-laki,31,Pekerja,770,38,Fashion,Ya,Tidak Layak
+147,148,19,Laki-laki,46,Pekerja,632,20,Elektronik,Ya,Tidak Layak
+148,149,24,Laki-laki,5,Tidak Bekerja,764,10,Fashion,Ya,Layak
+149,150,53,Perempuan,20,Tidak Bekerja,606,98,Energi,Tidak,Layak
+150,151,34,Laki-laki,16,Pekerja,302,19,Elektronik,Tidak,Layak
+151,152,39,Laki-laki,30,Pelajar,841,56,Elektronik,Tidak,Layak
+152,153,55,Laki-laki,39,Pelajar,331,92,Makanan,Ya,Tidak Layak
+153,154,33,Perempuan,45,Pekerja,701,43,Energi,Ya,Layak
+154,155,57,Perempuan,16,Pelajar,826,47,Energi,Tidak,Tidak Layak
+155,156,38,Perempuan,19,Pekerja,512,19,Energi,Tidak,Tidak Layak
+156,157,39,Perempuan,30,Pelajar,732,83,Elektronik,Tidak,Layak
+157,158,40,Laki-laki,34,Tidak Bekerja,562,81,Fashion,Tidak,Layak
+158,159,27,Laki-laki,31,Pelajar,623,15,Fashion,Tidak,Tidak Layak
+159,160,61,Laki-laki,9,Pelajar,673,89,Elektronik,Tidak,Layak
+160,161,42,Perempuan,29,Tidak Bekerja,322,62,Fashion,Ya,Layak
+161,162,37,Perempuan,48,Tidak Bekerja,437,91,Fashion,Ya,Tidak Layak
+162,163,41,Laki-laki,15,Pelajar,652,73,Fashion,Ya,Layak
+163,164,47,Perempuan,40,Pelajar,739,2,Elektronik,Ya,Tidak Layak
+164,165,61,Perempuan,11,Pelajar,518,7,Makanan,Ya,Layak
+165,166,19,Laki-laki,39,Pekerja,605,69,Makanan,Tidak,Layak
+166,167,31,Perempuan,21,Tidak Bekerja,755,42,Makanan,Tidak,Tidak Layak
+167,168,20,Perempuan,28,Tidak Bekerja,802,57,Fashion,Tidak,Layak
+168,169,40,Laki-laki,46,Pelajar,644,62,Fashion,Ya,Tidak Layak
+169,170,36,Perempuan,6,Pelajar,459,17,Fashion,Ya,Layak
+170,171,19,Laki-laki,16,Pelajar,455,77,Fashion,Ya,Layak
+171,172,20,Laki-laki,22,Pekerja,522,37,Elektronik,Ya,Tidak Layak
+172,173,58,Perempuan,49,Pelajar,514,96,Makanan,Tidak,Layak
+173,174,28,Perempuan,47,Tidak Bekerja,423,5,Energi,Ya,Tidak Layak
+174,175,54,Laki-laki,9,Pekerja,670,15,Energi,Ya,Layak
+175,176,58,Perempuan,14,Pelajar,661,32,Fashion,Ya,Tidak Layak
+176,177,32,Laki-laki,9,Pekerja,717,14,Makanan,Ya,Tidak Layak
+177,178,47,Laki-laki,40,Pelajar,533,54,Makanan,Ya,Tidak Layak
+178,179,19,Laki-laki,46,Tidak Bekerja,330,19,Elektronik,Tidak,Tidak Layak
+179,180,61,Perempuan,36,Pekerja,417,62,Elektronik,Ya,Layak
+180,181,24,Perempuan,17,Tidak Bekerja,697,54,Makanan,Ya,Layak
+181,182,59,Laki-laki,35,Tidak Bekerja,486,1,Makanan,Ya,Tidak Layak
+182,183,47,Perempuan,7,Pelajar,313,50,Fashion,Tidak,Tidak Layak
+183,184,58,Laki-laki,19,Pelajar,575,22,Elektronik,Tidak,Layak
+184,185,27,Laki-laki,48,Pelajar,513,60,Makanan,Ya,Layak
+185,186,55,Perempuan,4,Tidak Bekerja,372,91,Makanan,Tidak,Tidak Layak
+186,187,51,Perempuan,33,Pelajar,495,52,Fashion,Tidak,Layak
+187,188,37,Perempuan,22,Tidak Bekerja,557,40,Fashion,Tidak,Tidak Layak
+188,189,29,Perempuan,7,Pelajar,681,70,Energi,Ya,Layak
+189,190,51,Perempuan,42,Pelajar,512,21,Fashion,Ya,Tidak Layak
+190,191,45,Perempuan,45,Pelajar,540,10,Energi,Ya,Tidak Layak
+191,192,51,Perempuan,17,Pelajar,429,12,Elektronik,Ya,Tidak Layak
+192,193,35,Perempuan,15,Pelajar,331,27,Makanan,Ya,Tidak Layak
+193,194,24,Laki-laki,18,Tidak Bekerja,559,52,Elektronik,Ya,Tidak Layak
+194,195,50,Perempuan,25,Tidak Bekerja,797,47,Elektronik,Ya,Layak
+195,196,45,Laki-laki,44,Tidak Bekerja,422,19,Fashion,Tidak,Tidak Layak
+196,197,40,Perempuan,26,Tidak Bekerja,464,90,Energi,Tidak,Tidak Layak
+197,198,31,Perempuan,41,Pekerja,429,36,Elektronik,Tidak,Tidak Layak
+198,199,24,Laki-laki,15,Tidak Bekerja,328,7,Elektronik,Tidak,Layak
+199,200,36,Perempuan,2,Tidak Bekerja,611,92,Energi,Ya,Layak
+200,201,47,Laki-laki,38,Pelajar,621,88,Fashion,Tidak,Tidak Layak
+201,202,33,Perempuan,47,Tidak Bekerja,377,20,Fashion,Ya,Layak
+202,203,63,Laki-laki,20,Pelajar,838,56,Makanan,Ya,Layak
+203,204,60,Laki-laki,32,Pelajar,504,29,Energi,Ya,Tidak Layak
+204,205,26,Perempuan,40,Tidak Bekerja,760,63,Energi,Tidak,Layak
+205,206,38,Laki-laki,38,Pelajar,776,51,Energi,Ya,Tidak Layak
+206,207,39,Laki-laki,37,Pekerja,352,15,Makanan,Tidak,Tidak Layak
+207,208,60,Perempuan,39,Pekerja,764,83,Elektronik,Tidak,Tidak Layak
+208,209,58,Perempuan,16,Pelajar,753,18,Elektronik,Tidak,Tidak Layak
+209,210,33,Laki-laki,35,Pekerja,532,19,Fashion,Tidak,Tidak Layak
+210,211,47,Laki-laki,19,Pelajar,654,68,Elektronik,Tidak,Layak
+211,212,51,Perempuan,32,Pekerja,414,23,Energi,Ya,Tidak Layak
+212,213,47,Perempuan,5,Pekerja,467,73,Elektronik,Ya,Tidak Layak
+213,214,19,Laki-laki,4,Pekerja,528,91,Energi,Ya,Layak
+214,215,63,Perempuan,2,Tidak Bekerja,486,13,Elektronik,Ya,Tidak Layak
+215,216,32,Perempuan,13,Pekerja,666,77,Energi,Ya,Layak
+216,217,53,Perempuan,41,Pelajar,591,31,Makanan,Ya,Tidak Layak
+217,218,42,Laki-laki,36,Tidak Bekerja,420,6,Fashion,Tidak,Layak
+218,219,23,Laki-laki,45,Pelajar,543,75,Elektronik,Ya,Layak
+219,220,35,Perempuan,44,Pelajar,690,96,Fashion,Tidak,Tidak Layak
+220,221,45,Laki-laki,28,Tidak Bekerja,750,13,Fashion,Tidak,Layak
+221,222,35,Laki-laki,47,Tidak Bekerja,541,10,Energi,Tidak,Tidak Layak
+222,223,24,Perempuan,28,Pelajar,336,99,Energi,Tidak,Tidak Layak
+223,224,23,Laki-laki,20,Pekerja,817,86,Makanan,Tidak,Tidak Layak
+224,225,42,Laki-laki,7,Pekerja,699,40,Elektronik,Tidak,Layak
+225,226,51,Laki-laki,19,Pelajar,782,67,Energi,Tidak,Layak
+226,227,20,Perempuan,8,Pekerja,629,56,Elektronik,Ya,Tidak Layak
+227,228,63,Laki-laki,24,Pelajar,651,9,Energi,Ya,Tidak Layak
+228,229,58,Perempuan,11,Tidak Bekerja,709,21,Fashion,Ya,Tidak Layak
+229,230,20,Laki-laki,44,Tidak Bekerja,349,72,Makanan,Tidak,Layak
+230,231,18,Perempuan,9,Pekerja,487,86,Fashion,Tidak,Tidak Layak
+231,232,19,Laki-laki,35,Pekerja,623,42,Fashion,Tidak,Tidak Layak
+232,233,56,Laki-laki,21,Pekerja,308,72,Fashion,Ya,Layak
+233,234,58,Laki-laki,17,Pelajar,747,91,Fashion,Ya,Layak
+234,235,23,Laki-laki,44,Pelajar,793,70,Elektronik,Ya,Layak
+235,236,34,Laki-laki,37,Pekerja,491,20,Elektronik,Ya,Tidak Layak
+236,237,35,Laki-laki,34,Tidak Bekerja,705,6,Energi,Ya,Layak
+237,238,43,Laki-laki,42,Tidak Bekerja,798,45,Makanan,Ya,Tidak Layak
+238,239,28,Perempuan,33,Pekerja,833,70,Fashion,Ya,Tidak Layak
+239,240,31,Perempuan,23,Pekerja,770,46,Makanan,Tidak,Tidak Layak
+240,241,64,Laki-laki,17,Pekerja,736,11,Fashion,Ya,Layak
+241,242,58,Laki-laki,7,Pekerja,468,26,Elektronik,Ya,Layak
+242,243,62,Laki-laki,13,Pelajar,374,23,Energi,Ya,Tidak Layak
+243,244,38,Laki-laki,39,Pelajar,357,69,Fashion,Ya,Layak
+244,245,23,Perempuan,27,Tidak Bekerja,517,57,Energi,Tidak,Layak
+245,246,42,Laki-laki,36,Pelajar,806,18,Energi,Tidak,Layak
+246,247,50,Perempuan,47,Tidak Bekerja,560,95,Elektronik,Tidak,Tidak Layak
+247,248,44,Laki-laki,22,Pelajar,378,8,Makanan,Tidak,Layak
+248,249,51,Perempuan,8,Pekerja,569,80,Elektronik,Ya,Layak
+249,250,63,Laki-laki,17,Tidak Bekerja,628,58,Makanan,Tidak,Tidak Layak
+250,251,39,Laki-laki,47,Tidak Bekerja,452,23,Fashion,Ya,Layak
+251,252,34,Perempuan,24,Pekerja,739,64,Fashion,Tidak,Tidak Layak
+252,253,38,Perempuan,20,Tidak Bekerja,528,70,Makanan,Ya,Tidak Layak
+253,254,61,Perempuan,12,Tidak Bekerja,730,47,Energi,Ya,Tidak Layak
+254,255,28,Laki-laki,47,Pelajar,378,20,Makanan,Ya,Layak
+255,256,29,Laki-laki,25,Pekerja,306,71,Makanan,Ya,Layak
+256,257,62,Laki-laki,5,Tidak Bekerja,627,86,Makanan,Tidak,Layak
+257,258,43,Perempuan,26,Tidak Bekerja,809,88,Energi,Tidak,Layak
+258,259,37,Laki-laki,31,Pelajar,845,21,Makanan,Tidak,Tidak Layak
+259,260,21,Laki-laki,31,Tidak Bekerja,655,37,Fashion,Tidak,Tidak Layak
+260,261,34,Laki-laki,25,Pekerja,833,45,Elektronik,Tidak,Tidak Layak
+261,262,29,Perempuan,13,Pelajar,840,56,Elektronik,Ya,Layak
+262,263,29,Perempuan,44,Tidak Bekerja,617,77,Elektronik,Ya,Tidak Layak
+263,264,31,Laki-laki,22,Pekerja,475,12,Makanan,Ya,Layak
+264,265,51,Laki-laki,22,Pekerja,515,71,Fashion,Tidak,Tidak Layak
+265,266,25,Laki-laki,25,Pelajar,592,80,Fashion,Tidak,Tidak Layak
+266,267,23,Perempuan,27,Tidak Bekerja,483,40,Fashion,Ya,Layak
+267,268,50,Perempuan,3,Tidak Bekerja,594,36,Energi,Tidak,Tidak Layak
+268,269,18,Laki-laki,27,Tidak Bekerja,450,16,Makanan,Tidak,Tidak Layak
+269,270,41,Laki-laki,6,Pelajar,506,91,Energi,Ya,Tidak Layak
+270,271,47,Laki-laki,2,Pelajar,719,87,Makanan,Tidak,Layak
+271,272,55,Perempuan,44,Pekerja,496,11,Fashion,Tidak,Tidak Layak
+272,273,47,Perempuan,37,Tidak Bekerja,599,24,Fashion,Ya,Tidak Layak
+273,274,23,Laki-laki,37,Tidak Bekerja,670,69,Elektronik,Tidak,Tidak Layak
+274,275,28,Laki-laki,41,Pelajar,688,81,Makanan,Tidak,Tidak Layak
+275,276,49,Perempuan,10,Pelajar,564,82,Fashion,Tidak,Layak
+276,277,37,Laki-laki,19,Pekerja,562,22,Makanan,Tidak,Layak
+277,278,31,Perempuan,3,Pelajar,641,89,Elektronik,Tidak,Tidak Layak
+278,279,55,Perempuan,3,Tidak Bekerja,757,95,Fashion,Ya,Layak
+279,280,63,Laki-laki,14,Tidak Bekerja,641,78,Elektronik,Ya,Tidak Layak
+280,281,28,Perempuan,36,Tidak Bekerja,600,18,Energi,Tidak,Layak
+281,282,57,Perempuan,3,Pelajar,837,31,Elektronik,Ya,Layak
+282,283,58,Laki-laki,36,Pekerja,648,31,Fashion,Tidak,Layak
+283,284,33,Perempuan,11,Pelajar,779,45,Energi,Tidak,Tidak Layak
+284,285,51,Laki-laki,22,Pekerja,761,91,Fashion,Ya,Tidak Layak
+285,286,40,Perempuan,5,Pekerja,436,50,Fashion,Tidak,Tidak Layak
+286,287,27,Perempuan,35,Pekerja,536,71,Elektronik,Ya,Layak
+287,288,19,Laki-laki,39,Pelajar,828,33,Energi,Tidak,Tidak Layak
+288,289,24,Perempuan,37,Pekerja,328,41,Elektronik,Ya,Tidak Layak
+289,290,41,Perempuan,47,Tidak Bekerja,376,35,Fashion,Ya,Layak
+290,291,22,Laki-laki,48,Pekerja,563,18,Elektronik,Ya,Layak
+291,292,43,Perempuan,40,Pekerja,746,10,Elektronik,Ya,Layak
+292,293,34,Perempuan,8,Pelajar,398,17,Makanan,Tidak,Tidak Layak
+293,294,20,Perempuan,4,Pelajar,496,35,Elektronik,Ya,Layak
+294,295,59,Laki-laki,16,Pekerja,780,91,Energi,Ya,Tidak Layak
+295,296,24,Laki-laki,20,Tidak Bekerja,381,52,Energi,Tidak,Layak
+296,297,62,Perempuan,38,Pelajar,656,96,Energi,Ya,Tidak Layak
+297,298,30,Perempuan,37,Tidak Bekerja,836,67,Elektronik,Tidak,Tidak Layak
+298,299,64,Laki-laki,16,Tidak Bekerja,784,95,Energi,Ya,Tidak Layak
+299,300,56,Perempuan,25,Tidak Bekerja,765,86,Makanan,Ya,Layak
+300,301,37,Perempuan,13,Pekerja,451,68,Elektronik,Tidak,Layak
+301,302,29,Perempuan,47,Pekerja,818,17,Fashion,Ya,Tidak Layak
+302,303,57,Laki-laki,15,Pelajar,668,9,Fashion,Tidak,Tidak Layak
+303,304,51,Laki-laki,17,Pelajar,843,35,Fashion,Ya,Tidak Layak
+304,305,43,Laki-laki,42,Pekerja,772,50,Energi,Tidak,Layak
+305,306,59,Laki-laki,12,Tidak Bekerja,838,85,Fashion,Tidak,Tidak Layak
+306,307,55,Perempuan,26,Tidak Bekerja,694,93,Makanan,Ya,Layak
+307,308,35,Perempuan,27,Pekerja,467,95,Fashion,Tidak,Layak
+308,309,30,Perempuan,9,Pekerja,307,67,Makanan,Ya,Layak
+309,310,29,Perempuan,7,Pekerja,357,94,Fashion,Ya,Tidak Layak
+310,311,39,Perempuan,23,Tidak Bekerja,846,93,Fashion,Ya,Layak
+311,312,45,Laki-laki,46,Pelajar,409,27,Fashion,Tidak,Layak
+312,313,29,Laki-laki,32,Tidak Bekerja,435,0,Makanan,Tidak,Tidak Layak
+313,314,58,Laki-laki,5,Pekerja,547,23,Makanan,Tidak,Tidak Layak
+314,315,64,Perempuan,46,Pekerja,705,47,Energi,Ya,Layak
+315,316,51,Perempuan,16,Tidak Bekerja,848,77,Energi,Ya,Tidak Layak
+316,317,52,Perempuan,48,Pelajar,613,8,Elektronik,Ya,Tidak Layak
+317,318,53,Laki-laki,48,Pekerja,698,56,Energi,Ya,Layak
+318,319,51,Laki-laki,41,Tidak Bekerja,486,19,Fashion,Ya,Tidak Layak
+319,320,48,Perempuan,40,Tidak Bekerja,448,39,Elektronik,Tidak,Layak
+320,321,28,Laki-laki,14,Tidak Bekerja,624,78,Makanan,Tidak,Layak
+321,322,47,Laki-laki,35,Tidak Bekerja,376,88,Fashion,Tidak,Layak
+322,323,44,Laki-laki,35,Pelajar,762,26,Makanan,Ya,Layak
+323,324,42,Laki-laki,23,Tidak Bekerja,447,72,Fashion,Ya,Layak
+324,325,61,Laki-laki,43,Tidak Bekerja,375,67,Makanan,Tidak,Tidak Layak
+325,326,37,Perempuan,30,Pelajar,670,43,Makanan,Tidak,Layak
+326,327,40,Laki-laki,45,Tidak Bekerja,484,96,Elektronik,Ya,Layak
+327,328,38,Laki-laki,24,Tidak Bekerja,326,15,Fashion,Tidak,Tidak Layak
+328,329,39,Perempuan,15,Pekerja,310,71,Energi,Ya,Layak
+329,330,35,Perempuan,42,Pelajar,328,25,Energi,Ya,Tidak Layak
+330,331,59,Perempuan,11,Pekerja,446,37,Makanan,Tidak,Tidak Layak
+331,332,23,Laki-laki,43,Pelajar,674,98,Elektronik,Tidak,Tidak Layak
+332,333,28,Laki-laki,43,Pelajar,645,95,Elektronik,Tidak,Tidak Layak
+333,334,33,Perempuan,47,Pekerja,595,23,Fashion,Tidak,Tidak Layak
+334,335,20,Perempuan,3,Tidak Bekerja,460,94,Fashion,Tidak,Tidak Layak
+335,336,19,Perempuan,24,Pelajar,465,1,Fashion,Ya,Tidak Layak
+336,337,49,Laki-laki,48,Pelajar,810,29,Fashion,Ya,Layak
+337,338,46,Perempuan,13,Pelajar,640,68,Fashion,Ya,Tidak Layak
+338,339,34,Perempuan,18,Pekerja,795,61,Fashion,Ya,Layak
+339,340,21,Laki-laki,14,Pekerja,684,99,Elektronik,Tidak,Layak
+340,341,26,Laki-laki,10,Tidak Bekerja,748,49,Fashion,Tidak,Tidak Layak
+341,342,63,Laki-laki,21,Tidak Bekerja,741,63,Makanan,Tidak,Tidak Layak
+342,343,48,Laki-laki,28,Tidak Bekerja,426,70,Energi,Ya,Layak
+343,344,54,Laki-laki,9,Tidak Bekerja,430,86,Fashion,Ya,Layak
+344,345,30,Perempuan,7,Tidak Bekerja,542,89,Makanan,Tidak,Layak
+345,346,47,Perempuan,11,Pekerja,460,34,Energi,Ya,Layak
+346,347,42,Perempuan,11,Pekerja,303,83,Elektronik,Ya,Tidak Layak
+347,348,30,Perempuan,42,Pelajar,839,39,Elektronik,Ya,Tidak Layak
+348,349,27,Laki-laki,46,Pelajar,460,38,Fashion,Tidak,Tidak Layak
+349,350,50,Laki-laki,36,Tidak Bekerja,350,9,Fashion,Ya,Tidak Layak
+350,351,33,Laki-laki,42,Pekerja,724,78,Makanan,Tidak,Tidak Layak
+351,352,31,Laki-laki,24,Pelajar,586,56,Energi,Tidak,Tidak Layak
+352,353,23,Perempuan,48,Pekerja,845,99,Makanan,Tidak,Tidak Layak
+353,354,41,Perempuan,13,Tidak Bekerja,721,92,Fashion,Tidak,Tidak Layak
+354,355,27,Laki-laki,10,Tidak Bekerja,715,96,Elektronik,Ya,Tidak Layak
+355,356,44,Laki-laki,46,Pekerja,310,6,Energi,Ya,Tidak Layak
+356,357,57,Perempuan,18,Pekerja,345,48,Makanan,Ya,Tidak Layak
+357,358,62,Laki-laki,41,Pekerja,619,83,Energi,Ya,Tidak Layak
+358,359,26,Perempuan,37,Tidak Bekerja,375,8,Makanan,Tidak,Layak
+359,360,35,Perempuan,9,Pelajar,777,92,Elektronik,Tidak,Layak
+360,361,37,Perempuan,15,Tidak Bekerja,682,55,Energi,Tidak,Layak
+361,362,63,Perempuan,28,Pekerja,777,81,Elektronik,Tidak,Tidak Layak
+362,363,51,Laki-laki,35,Pekerja,566,95,Fashion,Tidak,Layak
+363,364,64,Perempuan,20,Pekerja,649,12,Fashion,Tidak,Layak
+364,365,46,Perempuan,19,Tidak Bekerja,835,24,Fashion,Tidak,Tidak Layak
+365,366,23,Laki-laki,36,Tidak Bekerja,516,47,Fashion,Tidak,Layak
+366,367,44,Laki-laki,9,Pelajar,700,38,Makanan,Ya,Layak
+367,368,64,Perempuan,14,Pelajar,369,32,Energi,Tidak,Tidak Layak
+368,369,28,Laki-laki,38,Pekerja,554,44,Energi,Ya,Tidak Layak
+369,370,46,Perempuan,14,Tidak Bekerja,350,85,Makanan,Tidak,Tidak Layak
+370,371,27,Laki-laki,19,Pekerja,383,85,Elektronik,Tidak,Tidak Layak
+371,372,58,Laki-laki,20,Pelajar,818,96,Makanan,Ya,Layak
+372,373,35,Laki-laki,22,Pekerja,809,68,Elektronik,Ya,Tidak Layak
+373,374,21,Laki-laki,23,Pekerja,736,95,Elektronik,Ya,Tidak Layak
+374,375,29,Laki-laki,28,Pelajar,757,45,Elektronik,Tidak,Tidak Layak
+375,376,18,Laki-laki,43,Tidak Bekerja,732,11,Makanan,Ya,Layak
+376,377,34,Perempuan,7,Tidak Bekerja,482,30,Energi,Ya,Tidak Layak
+377,378,20,Perempuan,14,Tidak Bekerja,421,1,Makanan,Ya,Layak
+378,379,24,Perempuan,44,Tidak Bekerja,810,85,Fashion,Tidak,Tidak Layak
+379,380,55,Perempuan,26,Tidak Bekerja,585,79,Energi,Ya,Tidak Layak
+380,381,28,Laki-laki,38,Tidak Bekerja,351,39,Fashion,Tidak,Layak
+381,382,43,Laki-laki,44,Tidak Bekerja,390,88,Fashion,Ya,Layak
+382,383,44,Perempuan,11,Pelajar,306,17,Elektronik,Ya,Tidak Layak
+383,384,59,Laki-laki,39,Pelajar,654,68,Elektronik,Tidak,Layak
+384,385,22,Perempuan,29,Pelajar,635,73,Elektronik,Tidak,Layak
+385,386,57,Laki-laki,30,Pekerja,725,31,Elektronik,Ya,Tidak Layak
+386,387,41,Laki-laki,12,Pekerja,302,36,Fashion,Ya,Tidak Layak
+387,388,60,Perempuan,2,Pelajar,412,33,Makanan,Ya,Layak
+388,389,33,Laki-laki,19,Tidak Bekerja,330,54,Elektronik,Ya,Tidak Layak
+389,390,51,Laki-laki,37,Tidak Bekerja,345,45,Elektronik,Ya,Tidak Layak
+390,391,23,Perempuan,32,Pekerja,833,31,Energi,Tidak,Layak
+391,392,49,Perempuan,30,Tidak Bekerja,602,77,Makanan,Tidak,Layak
+392,393,26,Laki-laki,45,Tidak Bekerja,549,95,Fashion,Tidak,Tidak Layak
+393,394,41,Perempuan,25,Pekerja,631,2,Fashion,Tidak,Layak
+394,395,52,Laki-laki,3,Tidak Bekerja,548,37,Fashion,Ya,Tidak Layak
+395,396,54,Perempuan,6,Tidak Bekerja,350,6,Fashion,Ya,Tidak Layak
+396,397,59,Laki-laki,13,Pekerja,405,23,Makanan,Tidak,Tidak Layak
+397,398,41,Perempuan,30,Tidak Bekerja,563,14,Makanan,Ya,Layak
+398,399,22,Laki-laki,25,Tidak Bekerja,790,70,Elektronik,Tidak,Tidak Layak
+399,400,60,Laki-laki,15,Pelajar,412,7,Fashion,Ya,Tidak Layak
+400,401,26,Perempuan,13,Tidak Bekerja,805,82,Elektronik,Ya,Layak
+401,402,26,Perempuan,40,Tidak Bekerja,471,48,Makanan,Tidak,Tidak Layak
+402,403,63,Laki-laki,21,Pelajar,806,23,Elektronik,Tidak,Tidak Layak
+403,404,42,Laki-laki,6,Tidak Bekerja,612,59,Elektronik,Tidak,Layak
+404,405,52,Laki-laki,14,Tidak Bekerja,535,56,Energi,Tidak,Layak
+405,406,34,Perempuan,8,Tidak Bekerja,448,37,Fashion,Ya,Tidak Layak
+406,407,52,Perempuan,29,Tidak Bekerja,829,91,Energi,Ya,Tidak Layak
+407,408,38,Perempuan,22,Tidak Bekerja,345,23,Fashion,Ya,Layak
+408,409,36,Laki-laki,2,Pekerja,594,14,Elektronik,Ya,Layak
+409,410,34,Perempuan,26,Tidak Bekerja,404,12,Makanan,Ya,Layak
+410,411,32,Laki-laki,13,Tidak Bekerja,753,28,Fashion,Ya,Layak
+411,412,28,Perempuan,37,Tidak Bekerja,777,92,Makanan,Ya,Layak
+412,413,47,Laki-laki,8,Tidak Bekerja,523,99,Fashion,Tidak,Layak
+413,414,53,Laki-laki,21,Pelajar,462,87,Fashion,Ya,Layak
+414,415,46,Perempuan,12,Tidak Bekerja,711,22,Makanan,Ya,Layak
+415,416,45,Laki-laki,17,Pekerja,439,89,Elektronik,Ya,Tidak Layak
+416,417,22,Perempuan,42,Pekerja,445,62,Energi,Ya,Tidak Layak
+417,418,54,Laki-laki,32,Pekerja,793,57,Energi,Tidak,Layak
+418,419,20,Perempuan,30,Tidak Bekerja,623,52,Fashion,Tidak,Tidak Layak
+419,420,49,Laki-laki,11,Tidak Bekerja,374,5,Fashion,Tidak,Tidak Layak
+420,421,61,Perempuan,9,Pelajar,454,47,Fashion,Tidak,Tidak Layak
+421,422,61,Perempuan,27,Pelajar,622,80,Fashion,Ya,Tidak Layak
+422,423,47,Perempuan,18,Pelajar,540,28,Energi,Tidak,Tidak Layak
+423,424,32,Perempuan,13,Pekerja,775,12,Makanan,Tidak,Layak
+424,425,64,Perempuan,26,Tidak Bekerja,566,45,Makanan,Tidak,Tidak Layak
+425,426,49,Laki-laki,22,Pekerja,806,21,Elektronik,Ya,Layak
+426,427,24,Laki-laki,21,Tidak Bekerja,718,75,Elektronik,Tidak,Layak
+427,428,30,Laki-laki,14,Pekerja,675,6,Elektronik,Ya,Layak
+428,429,26,Laki-laki,26,Pekerja,709,54,Elektronik,Ya,Tidak Layak
+429,430,46,Perempuan,2,Pekerja,534,60,Energi,Tidak,Layak
+430,431,52,Perempuan,39,Tidak Bekerja,476,12,Fashion,Ya,Layak
+431,432,18,Laki-laki,41,Tidak Bekerja,322,4,Fashion,Ya,Layak
+432,433,38,Laki-laki,9,Pekerja,470,13,Makanan,Tidak,Tidak Layak
+433,434,22,Perempuan,33,Pelajar,643,78,Elektronik,Tidak,Tidak Layak
+434,435,24,Laki-laki,41,Pelajar,731,49,Makanan,Tidak,Layak
+435,436,47,Perempuan,36,Pekerja,357,75,Energi,Ya,Layak
+436,437,58,Perempuan,39,Pekerja,504,55,Elektronik,Tidak,Tidak Layak
+437,438,48,Laki-laki,17,Tidak Bekerja,648,90,Elektronik,Tidak,Tidak Layak
+438,439,35,Perempuan,6,Tidak Bekerja,368,50,Elektronik,Tidak,Layak
+439,440,21,Perempuan,29,Tidak Bekerja,823,57,Elektronik,Ya,Layak
+440,441,45,Laki-laki,46,Pekerja,324,9,Energi,Tidak,Layak
+441,442,47,Perempuan,15,Pekerja,690,0,Elektronik,Tidak,Tidak Layak
+442,443,30,Laki-laki,18,Pekerja,615,31,Makanan,Tidak,Tidak Layak
+443,444,57,Perempuan,5,Pekerja,791,28,Fashion,Ya,Layak
+444,445,48,Perempuan,8,Pelajar,597,6,Energi,Ya,Layak
+445,446,24,Laki-laki,14,Pekerja,735,98,Elektronik,Tidak,Tidak Layak
+446,447,29,Perempuan,25,Pekerja,576,46,Fashion,Ya,Tidak Layak
+447,448,62,Laki-laki,39,Pelajar,707,39,Fashion,Ya,Tidak Layak
+448,449,44,Perempuan,49,Tidak Bekerja,790,53,Energi,Tidak,Tidak Layak
+449,450,60,Laki-laki,35,Pekerja,801,32,Elektronik,Tidak,Tidak Layak
+450,451,59,Laki-laki,23,Tidak Bekerja,690,70,Makanan,Tidak,Tidak Layak
+451,452,32,Laki-laki,45,Pelajar,312,59,Fashion,Tidak,Tidak Layak
+452,453,46,Laki-laki,32,Tidak Bekerja,436,34,Elektronik,Ya,Layak
+453,454,54,Perempuan,11,Tidak Bekerja,602,94,Elektronik,Ya,Layak
+454,455,57,Perempuan,18,Tidak Bekerja,518,19,Makanan,Tidak,Tidak Layak
+455,456,51,Laki-laki,17,Pelajar,612,96,Fashion,Tidak,Tidak Layak
+456,457,21,Perempuan,23,Pekerja,506,22,Fashion,Tidak,Tidak Layak
+457,458,41,Perempuan,11,Pekerja,791,84,Fashion,Ya,Tidak Layak
+458,459,29,Perempuan,29,Tidak Bekerja,662,59,Elektronik,Ya,Layak
+459,460,27,Perempuan,43,Tidak Bekerja,814,97,Makanan,Tidak,Tidak Layak
+460,461,40,Laki-laki,28,Pelajar,626,46,Makanan,Tidak,Tidak Layak
+461,462,38,Laki-laki,19,Pekerja,310,97,Elektronik,Tidak,Tidak Layak
+462,463,35,Perempuan,13,Pekerja,611,52,Makanan,Ya,Tidak Layak
+463,464,60,Perempuan,27,Pekerja,303,46,Makanan,Tidak,Tidak Layak
+464,465,18,Laki-laki,46,Pekerja,744,84,Makanan,Ya,Layak
+465,466,36,Perempuan,9,Pekerja,750,6,Fashion,Tidak,Layak
+466,467,27,Perempuan,42,Pekerja,624,38,Energi,Ya,Tidak Layak
+467,468,48,Perempuan,49,Pelajar,392,13,Elektronik,Ya,Layak
+468,469,55,Laki-laki,8,Pelajar,535,24,Energi,Tidak,Tidak Layak
+469,470,27,Perempuan,2,Tidak Bekerja,681,92,Makanan,Ya,Layak
+470,471,31,Laki-laki,23,Pelajar,433,54,Fashion,Ya,Tidak Layak
+471,472,56,Laki-laki,6,Pekerja,647,93,Elektronik,Ya,Layak
+472,473,64,Laki-laki,16,Pekerja,523,1,Makanan,Ya,Tidak Layak
+473,474,53,Laki-laki,43,Pekerja,813,17,Fashion,Tidak,Tidak Layak
+474,475,22,Perempuan,17,Pelajar,436,70,Energi,Tidak,Layak
+475,476,28,Perempuan,14,Pekerja,396,3,Fashion,Ya,Tidak Layak
+476,477,23,Perempuan,18,Tidak Bekerja,629,49,Fashion,Tidak,Tidak Layak
+477,478,45,Perempuan,15,Pekerja,317,0,Energi,Ya,Tidak Layak
+478,479,49,Laki-laki,21,Pekerja,452,23,Fashion,Tidak,Tidak Layak
+479,480,46,Perempuan,36,Pelajar,466,56,Makanan,Tidak,Layak
+480,481,24,Laki-laki,10,Pelajar,375,23,Energi,Tidak,Layak
+481,482,21,Perempuan,21,Pelajar,700,48,Makanan,Tidak,Layak
+482,483,45,Laki-laki,27,Tidak Bekerja,604,2,Makanan,Tidak,Layak
+483,484,18,Laki-laki,45,Tidak Bekerja,340,61,Energi,Tidak,Tidak Layak
+484,485,42,Laki-laki,6,Pelajar,603,86,Elektronik,Ya,Tidak Layak
+485,486,36,Perempuan,2,Tidak Bekerja,706,9,Elektronik,Ya,Tidak Layak
+486,487,34,Laki-laki,16,Tidak Bekerja,474,95,Makanan,Ya,Layak
+487,488,61,Laki-laki,5,Tidak Bekerja,556,67,Elektronik,Ya,Layak
+488,489,22,Perempuan,32,Tidak Bekerja,436,40,Energi,Ya,Tidak Layak
+489,490,27,Perempuan,45,Pekerja,310,44,Energi,Tidak,Tidak Layak
+490,491,63,Perempuan,27,Pelajar,315,72,Energi,Ya,Layak
+491,492,18,Laki-laki,42,Pekerja,583,93,Makanan,Ya,Layak
+492,493,48,Perempuan,23,Pekerja,420,39,Elektronik,Ya,Tidak Layak
+493,494,45,Perempuan,7,Tidak Bekerja,677,69,Fashion,Ya,Layak
+494,495,45,Laki-laki,40,Pekerja,310,31,Fashion,Tidak,Tidak Layak
+495,496,33,Perempuan,43,Pekerja,324,95,Makanan,Ya,Layak
+496,497,24,Perempuan,40,Tidak Bekerja,408,64,Makanan,Ya,Layak
+497,498,61,Laki-laki,5,Tidak Bekerja,405,18,Fashion,Ya,Tidak Layak
+498,499,42,Laki-laki,15,Pelajar,601,52,Energi,Tidak,Tidak Layak
+499,500,38,Laki-laki,44,Pelajar,782,29,Energi,Tidak,Tidak Layak
+500,501,45,Perempuan,4,Tidak Bekerja,458,79,Energi,Ya,Tidak Layak
+501,502,33,Perempuan,24,Pelajar,773,57,Energi,Ya,Tidak Layak
+502,503,49,Laki-laki,26,Pelajar,685,16,Makanan,Ya,Tidak Layak
+503,504,63,Laki-laki,48,Pelajar,773,50,Fashion,Ya,Tidak Layak
+504,505,23,Perempuan,32,Pekerja,437,16,Energi,Tidak,Tidak Layak
+505,506,26,Laki-laki,32,Pelajar,475,37,Fashion,Ya,Layak
+506,507,40,Perempuan,30,Tidak Bekerja,720,75,Elektronik,Ya,Layak
+507,508,26,Perempuan,29,Tidak Bekerja,739,23,Makanan,Tidak,Layak
+508,509,22,Perempuan,12,Tidak Bekerja,639,35,Fashion,Tidak,Tidak Layak
+509,510,42,Perempuan,32,Tidak Bekerja,638,23,Energi,Ya,Tidak Layak
+510,511,22,Perempuan,37,Pekerja,497,71,Makanan,Ya,Tidak Layak
+511,512,29,Laki-laki,46,Pekerja,316,94,Fashion,Tidak,Layak
+512,513,44,Laki-laki,41,Tidak Bekerja,680,17,Makanan,Ya,Tidak Layak
+513,514,49,Perempuan,21,Tidak Bekerja,441,1,Elektronik,Tidak,Tidak Layak
+514,515,64,Perempuan,2,Tidak Bekerja,646,69,Makanan,Tidak,Layak
+515,516,48,Perempuan,15,Tidak Bekerja,815,9,Fashion,Tidak,Tidak Layak
+516,517,57,Perempuan,16,Pekerja,541,76,Elektronik,Ya,Layak
+517,518,36,Laki-laki,11,Pelajar,492,0,Makanan,Tidak,Layak
+518,519,41,Laki-laki,43,Pelajar,376,96,Elektronik,Ya,Layak
+519,520,26,Laki-laki,47,Tidak Bekerja,764,10,Makanan,Tidak,Layak
+520,521,33,Perempuan,20,Pekerja,633,13,Makanan,Ya,Layak
+521,522,53,Laki-laki,7,Tidak Bekerja,441,32,Fashion,Ya,Layak
+522,523,62,Perempuan,47,Pekerja,414,34,Fashion,Ya,Tidak Layak
+523,524,58,Perempuan,17,Pelajar,846,93,Energi,Ya,Tidak Layak
+524,525,25,Perempuan,36,Pelajar,614,67,Makanan,Ya,Layak
+525,526,53,Perempuan,22,Pekerja,666,2,Fashion,Ya,Layak
+526,527,50,Perempuan,45,Pelajar,404,42,Makanan,Ya,Tidak Layak
+527,528,49,Laki-laki,3,Tidak Bekerja,346,68,Makanan,Ya,Layak
+528,529,48,Perempuan,30,Tidak Bekerja,629,49,Elektronik,Ya,Tidak Layak
+529,530,32,Laki-laki,26,Tidak Bekerja,430,45,Makanan,Ya,Layak
+530,531,27,Laki-laki,2,Pelajar,732,71,Energi,Ya,Tidak Layak
+531,532,49,Perempuan,3,Pelajar,596,61,Fashion,Ya,Layak
+532,533,63,Perempuan,32,Tidak Bekerja,557,74,Fashion,Ya,Layak
+533,534,28,Perempuan,8,Pekerja,625,94,Energi,Tidak,Layak
+534,535,54,Perempuan,12,Pekerja,838,61,Fashion,Ya,Tidak Layak
+535,536,29,Perempuan,48,Pekerja,636,37,Makanan,Ya,Layak
+536,537,61,Laki-laki,10,Pelajar,660,54,Elektronik,Tidak,Tidak Layak
+537,538,21,Perempuan,30,Pelajar,529,33,Fashion,Tidak,Layak
+538,539,32,Perempuan,7,Pelajar,449,9,Makanan,Tidak,Layak
+539,540,32,Perempuan,23,Tidak Bekerja,341,66,Fashion,Tidak,Tidak Layak
+540,541,25,Perempuan,23,Pekerja,385,16,Fashion,Ya,Tidak Layak
+541,542,60,Perempuan,33,Tidak Bekerja,549,15,Elektronik,Tidak,Tidak Layak
+542,543,41,Perempuan,19,Pelajar,848,50,Fashion,Tidak,Tidak Layak
+543,544,27,Laki-laki,45,Tidak Bekerja,555,96,Energi,Ya,Tidak Layak
+544,545,58,Laki-laki,33,Pelajar,559,95,Makanan,Ya,Layak
+545,546,51,Laki-laki,26,Pekerja,521,9,Energi,Ya,Tidak Layak
+546,547,64,Perempuan,30,Pekerja,366,76,Energi,Tidak,Layak
+547,548,54,Perempuan,38,Tidak Bekerja,771,42,Makanan,Ya,Layak
+548,549,55,Laki-laki,2,Pelajar,802,56,Elektronik,Tidak,Tidak Layak
+549,550,62,Perempuan,27,Tidak Bekerja,718,37,Energi,Tidak,Layak
+550,551,23,Perempuan,33,Pelajar,495,67,Elektronik,Tidak,Tidak Layak
+551,552,52,Laki-laki,47,Pekerja,377,6,Fashion,Tidak,Layak
+552,553,63,Perempuan,13,Pekerja,395,74,Fashion,Tidak,Tidak Layak
+553,554,46,Perempuan,17,Tidak Bekerja,522,72,Fashion,Ya,Layak
+554,555,55,Laki-laki,13,Pekerja,348,25,Energi,Ya,Tidak Layak
+555,556,32,Perempuan,30,Pelajar,730,92,Energi,Ya,Layak
+556,557,28,Perempuan,10,Tidak Bekerja,422,74,Fashion,Ya,Layak
+557,558,25,Laki-laki,30,Tidak Bekerja,459,37,Fashion,Ya,Tidak Layak
+558,559,38,Laki-laki,27,Tidak Bekerja,746,69,Makanan,Ya,Tidak Layak
+559,560,44,Laki-laki,29,Tidak Bekerja,333,17,Fashion,Tidak,Tidak Layak
+560,561,24,Laki-laki,21,Pekerja,338,23,Energi,Tidak,Tidak Layak
+561,562,45,Laki-laki,16,Pekerja,825,11,Makanan,Ya,Layak
+562,563,59,Laki-laki,20,Pelajar,840,41,Makanan,Tidak,Tidak Layak
+563,564,39,Laki-laki,40,Pelajar,681,61,Fashion,Ya,Tidak Layak
+564,565,42,Laki-laki,39,Tidak Bekerja,360,72,Elektronik,Tidak,Layak
+565,566,61,Laki-laki,31,Pelajar,659,69,Elektronik,Ya,Layak
+566,567,22,Laki-laki,9,Pekerja,473,97,Fashion,Ya,Tidak Layak
+567,568,57,Perempuan,40,Tidak Bekerja,682,2,Energi,Tidak,Tidak Layak
+568,569,27,Perempuan,25,Tidak Bekerja,465,90,Fashion,Ya,Layak
+569,570,51,Perempuan,47,Pelajar,825,33,Makanan,Tidak,Tidak Layak
+570,571,46,Laki-laki,19,Pelajar,797,99,Fashion,Tidak,Tidak Layak
+571,572,34,Perempuan,22,Pelajar,807,18,Energi,Tidak,Layak
+572,573,56,Perempuan,10,Tidak Bekerja,721,75,Elektronik,Ya,Tidak Layak
+573,574,29,Perempuan,45,Pekerja,524,77,Elektronik,Tidak,Tidak Layak
+574,575,21,Laki-laki,11,Tidak Bekerja,829,63,Fashion,Tidak,Tidak Layak
+575,576,63,Laki-laki,42,Tidak Bekerja,326,51,Makanan,Tidak,Tidak Layak
+576,577,32,Laki-laki,28,Pelajar,502,52,Elektronik,Tidak,Tidak Layak
+577,578,62,Perempuan,49,Pekerja,809,85,Fashion,Ya,Layak
+578,579,26,Perempuan,41,Pekerja,826,13,Energi,Tidak,Tidak Layak
+579,580,52,Laki-laki,16,Pelajar,729,56,Fashion,Ya,Tidak Layak
+580,581,30,Perempuan,35,Pekerja,700,94,Energi,Ya,Layak
+581,582,63,Perempuan,35,Pelajar,410,7,Energi,Ya,Tidak Layak
+582,583,30,Perempuan,47,Pekerja,323,92,Elektronik,Tidak,Layak
+583,584,19,Perempuan,35,Pekerja,466,33,Elektronik,Tidak,Layak
+584,585,26,Laki-laki,8,Pekerja,427,80,Makanan,Tidak,Layak
+585,586,36,Perempuan,24,Pekerja,366,74,Fashion,Ya,Tidak Layak
+586,587,31,Laki-laki,15,Pekerja,587,5,Makanan,Tidak,Layak
+587,588,18,Laki-laki,28,Pekerja,488,76,Fashion,Tidak,Layak
+588,589,39,Laki-laki,49,Tidak Bekerja,420,92,Makanan,Ya,Tidak Layak
+589,590,27,Laki-laki,6,Tidak Bekerja,439,84,Makanan,Ya,Tidak Layak
+590,591,29,Laki-laki,26,Pelajar,808,15,Makanan,Tidak,Tidak Layak
+591,592,59,Perempuan,6,Pekerja,832,65,Makanan,Tidak,Layak
+592,593,54,Perempuan,37,Pekerja,360,50,Fashion,Tidak,Layak
+593,594,39,Perempuan,25,Pekerja,625,60,Energi,Ya,Tidak Layak
+594,595,45,Laki-laki,43,Tidak Bekerja,357,22,Elektronik,Ya,Tidak Layak
+595,596,24,Perempuan,45,Pekerja,845,11,Elektronik,Ya,Layak
+596,597,30,Laki-laki,7,Pelajar,809,68,Elektronik,Ya,Layak
+597,598,26,Laki-laki,36,Tidak Bekerja,317,52,Energi,Tidak,Layak
+598,599,20,Laki-laki,31,Pekerja,698,68,Makanan,Ya,Tidak Layak
+599,600,20,Perempuan,48,Pelajar,837,59,Energi,Ya,Tidak Layak
+600,601,47,Perempuan,29,Tidak Bekerja,529,50,Fashion,Tidak,Layak
+601,602,52,Perempuan,20,Tidak Bekerja,689,98,Fashion,Tidak,Layak
+602,603,26,Laki-laki,35,Tidak Bekerja,720,23,Energi,Tidak,Layak
+603,604,64,Laki-laki,20,Pelajar,778,90,Elektronik,Tidak,Tidak Layak
+604,605,54,Perempuan,16,Pekerja,473,52,Elektronik,Ya,Tidak Layak
+605,606,23,Perempuan,4,Pelajar,536,85,Elektronik,Tidak,Tidak Layak
+606,607,23,Laki-laki,17,Tidak Bekerja,564,82,Energi,Tidak,Layak
+607,608,38,Perempuan,13,Pelajar,504,68,Fashion,Tidak,Layak
+608,609,44,Perempuan,46,Pekerja,322,15,Makanan,Tidak,Layak
+609,610,33,Perempuan,36,Pekerja,440,47,Energi,Tidak,Layak
+610,611,23,Laki-laki,39,Tidak Bekerja,327,18,Makanan,Ya,Layak
+611,612,19,Perempuan,3,Pelajar,540,70,Elektronik,Tidak,Tidak Layak
+612,613,29,Perempuan,32,Pelajar,388,80,Makanan,Ya,Layak
+613,614,23,Laki-laki,3,Tidak Bekerja,489,26,Energi,Ya,Layak
+614,615,43,Laki-laki,46,Pelajar,601,69,Makanan,Tidak,Tidak Layak
+615,616,28,Laki-laki,40,Pekerja,700,84,Fashion,Ya,Layak
+616,617,55,Perempuan,45,Pelajar,382,80,Makanan,Tidak,Layak
+617,618,35,Perempuan,3,Pelajar,305,44,Energi,Tidak,Tidak Layak
+618,619,62,Laki-laki,4,Tidak Bekerja,787,92,Fashion,Ya,Layak
+619,620,22,Perempuan,13,Tidak Bekerja,800,33,Elektronik,Ya,Layak
+620,621,51,Laki-laki,32,Pekerja,802,49,Energi,Ya,Layak
+621,622,56,Perempuan,15,Pekerja,846,49,Fashion,Ya,Tidak Layak
+622,623,52,Laki-laki,15,Pekerja,659,80,Fashion,Ya,Layak
+623,624,34,Laki-laki,40,Tidak Bekerja,517,34,Fashion,Tidak,Layak
+624,625,30,Perempuan,23,Pekerja,847,21,Elektronik,Ya,Layak
+625,626,34,Perempuan,17,Pekerja,684,13,Makanan,Ya,Layak
+626,627,39,Perempuan,42,Pekerja,494,26,Elektronik,Tidak,Layak
+627,628,23,Perempuan,10,Tidak Bekerja,792,63,Energi,Ya,Layak
+628,629,24,Perempuan,5,Tidak Bekerja,458,70,Elektronik,Tidak,Tidak Layak
+629,630,18,Laki-laki,3,Pekerja,530,45,Energi,Ya,Tidak Layak
+630,631,60,Perempuan,2,Pekerja,629,77,Energi,Tidak,Tidak Layak
+631,632,35,Laki-laki,26,Pekerja,525,8,Makanan,Tidak,Tidak Layak
+632,633,41,Perempuan,10,Pelajar,837,3,Energi,Ya,Layak
+633,634,64,Perempuan,37,Tidak Bekerja,662,43,Elektronik,Ya,Tidak Layak
+634,635,23,Perempuan,9,Tidak Bekerja,491,99,Fashion,Tidak,Tidak Layak
+635,636,24,Perempuan,46,Pekerja,460,46,Fashion,Tidak,Tidak Layak
+636,637,34,Perempuan,47,Tidak Bekerja,434,42,Makanan,Tidak,Layak
+637,638,23,Perempuan,44,Pelajar,484,49,Makanan,Tidak,Layak
+638,639,25,Perempuan,18,Tidak Bekerja,535,71,Elektronik,Tidak,Tidak Layak
+639,640,42,Laki-laki,12,Tidak Bekerja,603,99,Energi,Ya,Layak
+640,641,19,Perempuan,2,Pelajar,319,90,Elektronik,Ya,Tidak Layak
+641,642,48,Laki-laki,7,Pekerja,530,85,Elektronik,Ya,Layak
+642,643,48,Perempuan,41,Pelajar,782,16,Energi,Ya,Layak
+643,644,57,Perempuan,37,Pekerja,405,66,Energi,Tidak,Layak
+644,645,26,Perempuan,6,Pekerja,490,32,Energi,Tidak,Tidak Layak
+645,646,23,Laki-laki,22,Tidak Bekerja,522,59,Energi,Tidak,Tidak Layak
+646,647,46,Laki-laki,25,Pelajar,822,45,Energi,Ya,Tidak Layak
+647,648,23,Perempuan,3,Pelajar,534,45,Makanan,Tidak,Layak
+648,649,41,Laki-laki,25,Pekerja,694,8,Makanan,Tidak,Layak
+649,650,41,Perempuan,10,Pekerja,309,44,Fashion,Tidak,Tidak Layak
+650,651,60,Perempuan,34,Pekerja,539,9,Energi,Tidak,Layak
+651,652,20,Laki-laki,12,Tidak Bekerja,725,34,Energi,Tidak,Layak
+652,653,32,Perempuan,43,Tidak Bekerja,565,26,Makanan,Ya,Layak
+653,654,22,Laki-laki,37,Pelajar,430,75,Elektronik,Ya,Layak
+654,655,32,Perempuan,33,Tidak Bekerja,344,9,Fashion,Tidak,Tidak Layak
+655,656,48,Laki-laki,27,Tidak Bekerja,603,4,Makanan,Tidak,Layak
+656,657,26,Laki-laki,35,Pekerja,761,2,Makanan,Tidak,Layak
+657,658,39,Laki-laki,23,Tidak Bekerja,413,60,Makanan,Ya,Layak
+658,659,60,Laki-laki,20,Pelajar,306,43,Energi,Ya,Layak
+659,660,24,Laki-laki,31,Pekerja,651,96,Energi,Ya,Tidak Layak
+660,661,32,Laki-laki,8,Tidak Bekerja,535,71,Energi,Ya,Layak
+661,662,43,Perempuan,31,Pelajar,567,98,Energi,Ya,Layak
+662,663,24,Laki-laki,24,Pekerja,533,5,Elektronik,Tidak,Tidak Layak
+663,664,58,Laki-laki,37,Pekerja,679,39,Energi,Tidak,Tidak Layak
+664,665,60,Laki-laki,9,Pelajar,522,31,Elektronik,Tidak,Tidak Layak
+665,666,19,Laki-laki,3,Tidak Bekerja,346,27,Elektronik,Tidak,Layak
+666,667,52,Laki-laki,41,Pelajar,623,60,Fashion,Ya,Layak
+667,668,28,Laki-laki,18,Pelajar,332,17,Energi,Ya,Tidak Layak
+668,669,20,Perempuan,21,Pekerja,781,80,Makanan,Tidak,Tidak Layak
+669,670,50,Perempuan,48,Pelajar,771,47,Elektronik,Ya,Layak
+670,671,40,Laki-laki,17,Pekerja,510,9,Elektronik,Tidak,Tidak Layak
+671,672,50,Laki-laki,39,Pekerja,683,84,Elektronik,Ya,Layak
+672,673,44,Perempuan,36,Pelajar,829,75,Energi,Ya,Layak
+673,674,26,Perempuan,19,Pekerja,703,88,Elektronik,Ya,Tidak Layak
+674,675,41,Laki-laki,19,Pelajar,468,4,Makanan,Ya,Layak
+675,676,44,Perempuan,14,Pelajar,679,65,Makanan,Ya,Tidak Layak
+676,677,22,Laki-laki,17,Tidak Bekerja,749,6,Makanan,Tidak,Layak
+677,678,54,Perempuan,21,Pelajar,384,11,Fashion,Tidak,Layak
+678,679,41,Laki-laki,21,Pekerja,584,77,Fashion,Ya,Tidak Layak
+679,680,57,Laki-laki,21,Pekerja,614,1,Makanan,Tidak,Tidak Layak
+680,681,42,Laki-laki,8,Tidak Bekerja,680,69,Elektronik,Ya,Layak
+681,682,49,Perempuan,15,Tidak Bekerja,689,72,Elektronik,Tidak,Layak
+682,683,31,Perempuan,43,Tidak Bekerja,339,64,Elektronik,Ya,Layak
+683,684,23,Laki-laki,28,Pelajar,542,36,Energi,Ya,Layak
+684,685,22,Perempuan,28,Pekerja,470,35,Elektronik,Ya,Tidak Layak
+685,686,36,Laki-laki,20,Tidak Bekerja,583,35,Makanan,Ya,Layak
+686,687,59,Perempuan,18,Tidak Bekerja,574,72,Energi,Tidak,Tidak Layak
+687,688,51,Laki-laki,42,Tidak Bekerja,448,96,Energi,Ya,Layak
+688,689,40,Laki-laki,33,Pelajar,641,54,Elektronik,Ya,Tidak Layak
+689,690,52,Perempuan,6,Pelajar,349,64,Energi,Ya,Layak
+690,691,54,Laki-laki,7,Pelajar,382,71,Makanan,Tidak,Layak
+691,692,49,Perempuan,29,Pekerja,673,90,Elektronik,Ya,Tidak Layak
+692,693,33,Laki-laki,14,Tidak Bekerja,393,61,Makanan,Ya,Tidak Layak
+693,694,19,Laki-laki,7,Pekerja,325,70,Energi,Tidak,Layak
+694,695,22,Perempuan,2,Tidak Bekerja,611,12,Elektronik,Ya,Layak
+695,696,60,Laki-laki,4,Pekerja,520,93,Makanan,Ya,Layak
+696,697,34,Perempuan,42,Pekerja,384,3,Elektronik,Tidak,Layak
+697,698,44,Laki-laki,17,Pekerja,628,54,Elektronik,Tidak,Layak
+698,699,47,Perempuan,30,Tidak Bekerja,423,24,Fashion,Ya,Tidak Layak
+699,700,58,Laki-laki,45,Pelajar,524,54,Energi,Tidak,Layak
+700,701,57,Laki-laki,4,Pelajar,319,45,Energi,Ya,Tidak Layak
+701,702,21,Laki-laki,6,Pelajar,516,70,Elektronik,Ya,Tidak Layak
+702,703,39,Perempuan,7,Pelajar,327,37,Energi,Tidak,Layak
+703,704,48,Laki-laki,20,Pekerja,533,83,Makanan,Ya,Layak
+704,705,26,Perempuan,3,Pelajar,482,15,Elektronik,Tidak,Tidak Layak
+705,706,23,Perempuan,44,Pelajar,304,15,Makanan,Tidak,Tidak Layak
+706,707,59,Laki-laki,2,Tidak Bekerja,663,71,Energi,Ya,Tidak Layak
+707,708,42,Laki-laki,19,Pelajar,849,67,Makanan,Ya,Tidak Layak
+708,709,55,Laki-laki,45,Pekerja,723,75,Fashion,Tidak,Tidak Layak
+709,710,46,Laki-laki,7,Pelajar,343,54,Fashion,Tidak,Tidak Layak
+710,711,23,Perempuan,42,Tidak Bekerja,467,30,Fashion,Ya,Tidak Layak
+711,712,52,Laki-laki,20,Pelajar,468,97,Makanan,Ya,Layak
+712,713,32,Laki-laki,36,Pelajar,588,91,Energi,Ya,Layak
+713,714,55,Laki-laki,24,Pelajar,426,69,Makanan,Ya,Tidak Layak
+714,715,40,Laki-laki,32,Pelajar,664,28,Elektronik,Ya,Tidak Layak
+715,716,62,Perempuan,10,Tidak Bekerja,345,63,Makanan,Tidak,Tidak Layak
+716,717,29,Perempuan,27,Pekerja,710,85,Fashion,Ya,Layak
+717,718,44,Perempuan,20,Pekerja,613,30,Fashion,Tidak,Tidak Layak
+718,719,62,Laki-laki,44,Pekerja,771,50,Makanan,Tidak,Layak
+719,720,25,Perempuan,4,Tidak Bekerja,525,73,Makanan,Tidak,Layak
+720,721,21,Laki-laki,7,Pelajar,807,83,Elektronik,Ya,Layak
+721,722,21,Laki-laki,2,Pekerja,338,61,Makanan,Tidak,Tidak Layak
+722,723,24,Perempuan,37,Tidak Bekerja,603,53,Energi,Tidak,Layak
+723,724,27,Laki-laki,36,Pekerja,634,44,Elektronik,Ya,Tidak Layak
+724,725,57,Laki-laki,5,Tidak Bekerja,303,52,Fashion,Tidak,Tidak Layak
+725,726,52,Perempuan,3,Tidak Bekerja,455,89,Energi,Ya,Tidak Layak
+726,727,40,Laki-laki,34,Tidak Bekerja,499,12,Makanan,Tidak,Tidak Layak
+727,728,59,Laki-laki,20,Pekerja,555,65,Energi,Ya,Tidak Layak
+728,729,41,Laki-laki,45,Pekerja,497,65,Energi,Tidak,Tidak Layak
+729,730,59,Laki-laki,47,Tidak Bekerja,552,92,Elektronik,Tidak,Layak
+730,731,42,Laki-laki,22,Pekerja,647,97,Makanan,Tidak,Tidak Layak
+731,732,26,Perempuan,46,Pekerja,616,85,Energi,Ya,Tidak Layak
+732,733,52,Perempuan,24,Tidak Bekerja,825,35,Elektronik,Ya,Tidak Layak
+733,734,19,Perempuan,47,Pelajar,462,87,Fashion,Ya,Layak
+734,735,39,Perempuan,15,Tidak Bekerja,578,62,Energi,Tidak,Layak
+735,736,53,Laki-laki,9,Pekerja,711,56,Energi,Tidak,Layak
+736,737,43,Perempuan,46,Tidak Bekerja,694,87,Makanan,Ya,Tidak Layak
+737,738,61,Laki-laki,4,Tidak Bekerja,389,36,Elektronik,Tidak,Layak
+738,739,51,Perempuan,3,Pekerja,347,33,Makanan,Tidak,Layak
+739,740,54,Laki-laki,4,Pelajar,383,29,Energi,Ya,Layak
+740,741,33,Perempuan,34,Pelajar,319,93,Fashion,Ya,Tidak Layak
+741,742,19,Perempuan,14,Pelajar,796,53,Energi,Tidak,Layak
+742,743,42,Perempuan,21,Tidak Bekerja,575,42,Fashion,Tidak,Tidak Layak
+743,744,56,Perempuan,19,Pekerja,778,47,Makanan,Tidak,Tidak Layak
+744,745,52,Laki-laki,12,Tidak Bekerja,756,58,Elektronik,Ya,Layak
+745,746,28,Laki-laki,31,Tidak Bekerja,329,25,Energi,Ya,Layak
+746,747,35,Laki-laki,48,Pekerja,584,16,Makanan,Tidak,Layak
+747,748,25,Perempuan,26,Pelajar,362,53,Energi,Ya,Layak
+748,749,40,Laki-laki,41,Tidak Bekerja,354,6,Energi,Ya,Tidak Layak
+749,750,60,Perempuan,38,Tidak Bekerja,488,44,Energi,Tidak,Layak
+750,751,45,Laki-laki,43,Pelajar,418,11,Makanan,Ya,Tidak Layak
+751,752,36,Perempuan,49,Pelajar,617,42,Elektronik,Tidak,Layak
+752,753,64,Perempuan,43,Pekerja,496,25,Energi,Ya,Layak
+753,754,18,Perempuan,33,Pekerja,644,63,Fashion,Ya,Tidak Layak
+754,755,47,Perempuan,27,Pekerja,614,23,Makanan,Ya,Tidak Layak
+755,756,42,Laki-laki,44,Pelajar,661,54,Elektronik,Tidak,Tidak Layak
+756,757,42,Perempuan,16,Tidak Bekerja,390,92,Energi,Ya,Tidak Layak
+757,758,50,Perempuan,21,Pelajar,678,84,Energi,Ya,Layak
+758,759,40,Perempuan,5,Pekerja,371,78,Fashion,Tidak,Tidak Layak
+759,760,27,Laki-laki,11,Pelajar,488,82,Elektronik,Tidak,Layak
+760,761,22,Laki-laki,26,Pelajar,780,82,Makanan,Tidak,Layak
+761,762,43,Laki-laki,46,Pelajar,435,86,Fashion,Ya,Tidak Layak
+762,763,21,Laki-laki,15,Pekerja,532,25,Makanan,Ya,Tidak Layak
+763,764,25,Perempuan,18,Pelajar,653,31,Energi,Ya,Tidak Layak
+764,765,54,Perempuan,33,Tidak Bekerja,405,9,Makanan,Ya,Layak
+765,766,21,Laki-laki,18,Pekerja,414,15,Elektronik,Ya,Tidak Layak
+766,767,43,Laki-laki,49,Pekerja,533,90,Makanan,Ya,Tidak Layak
+767,768,26,Laki-laki,15,Pelajar,652,61,Fashion,Ya,Layak
+768,769,23,Laki-laki,39,Pekerja,508,63,Elektronik,Ya,Layak
+769,770,42,Perempuan,11,Tidak Bekerja,616,15,Energi,Ya,Layak
+770,771,47,Laki-laki,46,Pelajar,631,68,Energi,Ya,Tidak Layak
+771,772,57,Perempuan,13,Pekerja,409,38,Makanan,Tidak,Layak
+772,773,54,Perempuan,18,Pekerja,415,82,Energi,Ya,Tidak Layak
+773,774,45,Perempuan,32,Pelajar,412,25,Energi,Ya,Tidak Layak
+774,775,48,Perempuan,47,Pekerja,741,68,Fashion,Ya,Layak
+775,776,27,Perempuan,46,Tidak Bekerja,351,18,Elektronik,Ya,Layak
+776,777,20,Perempuan,13,Pelajar,467,68,Fashion,Ya,Tidak Layak
+777,778,57,Laki-laki,17,Pekerja,561,25,Fashion,Tidak,Layak
+778,779,50,Perempuan,39,Tidak Bekerja,426,16,Makanan,Ya,Layak
+779,780,37,Laki-laki,42,Tidak Bekerja,363,9,Elektronik,Ya,Layak
+780,781,49,Perempuan,17,Tidak Bekerja,557,22,Fashion,Ya,Tidak Layak
+781,782,45,Laki-laki,45,Tidak Bekerja,508,11,Elektronik,Ya,Tidak Layak
+782,783,21,Perempuan,14,Pekerja,480,30,Makanan,Ya,Tidak Layak
+783,784,57,Laki-laki,12,Pelajar,488,77,Fashion,Ya,Tidak Layak
+784,785,59,Laki-laki,25,Pelajar,659,64,Elektronik,Ya,Layak
+785,786,50,Laki-laki,33,Pekerja,613,33,Elektronik,Tidak,Layak
+786,787,52,Perempuan,6,Pelajar,419,13,Elektronik,Ya,Tidak Layak
+787,788,30,Perempuan,25,Pekerja,459,83,Elektronik,Ya,Layak
+788,789,39,Perempuan,38,Pelajar,563,36,Energi,Tidak,Tidak Layak
+789,790,38,Perempuan,31,Pelajar,756,78,Fashion,Ya,Tidak Layak
+790,791,46,Perempuan,45,Tidak Bekerja,608,59,Energi,Tidak,Layak
+791,792,42,Laki-laki,18,Pelajar,714,22,Makanan,Tidak,Layak
+792,793,52,Perempuan,19,Tidak Bekerja,535,8,Elektronik,Tidak,Layak
+793,794,39,Perempuan,42,Tidak Bekerja,554,84,Elektronik,Ya,Layak
+794,795,50,Laki-laki,12,Tidak Bekerja,473,19,Elektronik,Ya,Layak
+795,796,54,Laki-laki,32,Pekerja,356,8,Elektronik,Ya,Layak
+796,797,29,Perempuan,30,Tidak Bekerja,761,45,Fashion,Ya,Layak
+797,798,34,Perempuan,9,Tidak Bekerja,553,18,Elektronik,Tidak,Tidak Layak
+798,799,28,Perempuan,44,Pekerja,704,70,Fashion,Tidak,Layak
+799,800,22,Laki-laki,25,Pelajar,711,88,Fashion,Ya,Tidak Layak
+800,801,20,Perempuan,49,Tidak Bekerja,428,31,Fashion,Tidak,Tidak Layak
+801,802,31,Laki-laki,29,Tidak Bekerja,786,38,Fashion,Ya,Layak
+802,803,26,Laki-laki,27,Tidak Bekerja,574,72,Makanan,Tidak,Layak
+803,804,38,Laki-laki,19,Tidak Bekerja,824,87,Fashion,Ya,Tidak Layak
+804,805,25,Laki-laki,33,Tidak Bekerja,713,69,Energi,Tidak,Layak
+805,806,23,Perempuan,22,Pekerja,652,35,Makanan,Ya,Layak
+806,807,21,Perempuan,25,Pekerja,737,29,Makanan,Ya,Layak
+807,808,18,Perempuan,23,Tidak Bekerja,399,81,Elektronik,Tidak,Layak
+808,809,24,Perempuan,7,Pelajar,522,11,Elektronik,Ya,Tidak Layak
+809,810,41,Perempuan,30,Pelajar,404,0,Elektronik,Ya,Layak
+810,811,36,Laki-laki,32,Pelajar,744,32,Fashion,Ya,Tidak Layak
+811,812,45,Perempuan,39,Pelajar,330,38,Makanan,Ya,Tidak Layak
+812,813,64,Perempuan,31,Tidak Bekerja,770,63,Fashion,Tidak,Layak
+813,814,38,Perempuan,36,Pekerja,309,84,Elektronik,Ya,Layak
+814,815,64,Perempuan,21,Pekerja,778,82,Fashion,Ya,Tidak Layak
+815,816,27,Perempuan,11,Pekerja,566,59,Makanan,Ya,Layak
+816,817,52,Laki-laki,20,Tidak Bekerja,508,58,Makanan,Ya,Layak
+817,818,38,Perempuan,46,Tidak Bekerja,314,85,Energi,Ya,Tidak Layak
+818,819,38,Laki-laki,40,Pekerja,498,91,Makanan,Ya,Layak
+819,820,40,Perempuan,6,Pelajar,454,89,Elektronik,Tidak,Tidak Layak
+820,821,23,Perempuan,41,Pekerja,583,81,Energi,Ya,Layak
+821,822,52,Laki-laki,8,Pelajar,781,96,Elektronik,Tidak,Tidak Layak
+822,823,46,Laki-laki,31,Pekerja,783,71,Fashion,Tidak,Layak
+823,824,45,Perempuan,14,Tidak Bekerja,398,62,Elektronik,Tidak,Layak
+824,825,18,Perempuan,4,Tidak Bekerja,600,97,Elektronik,Tidak,Tidak Layak
+825,826,35,Laki-laki,8,Pekerja,424,37,Fashion,Tidak,Layak
+826,827,57,Perempuan,22,Tidak Bekerja,505,45,Energi,Tidak,Tidak Layak
+827,828,18,Perempuan,37,Pekerja,448,32,Makanan,Ya,Tidak Layak
+828,829,29,Perempuan,29,Pelajar,359,80,Makanan,Ya,Layak
+829,830,33,Perempuan,2,Pekerja,729,29,Elektronik,Tidak,Layak
+830,831,26,Laki-laki,26,Pelajar,452,25,Makanan,Tidak,Layak
+831,832,50,Laki-laki,23,Pelajar,611,75,Makanan,Tidak,Layak
+832,833,21,Laki-laki,32,Tidak Bekerja,655,22,Fashion,Tidak,Tidak Layak
+833,834,57,Laki-laki,24,Tidak Bekerja,778,73,Energi,Tidak,Layak
+834,835,48,Perempuan,38,Pelajar,746,35,Elektronik,Tidak,Layak
+835,836,54,Laki-laki,47,Pelajar,645,53,Makanan,Tidak,Tidak Layak
+836,837,22,Laki-laki,16,Pekerja,811,14,Fashion,Ya,Tidak Layak
+837,838,60,Laki-laki,37,Pelajar,695,40,Elektronik,Tidak,Layak
+838,839,25,Perempuan,33,Pelajar,731,63,Fashion,Ya,Layak
+839,840,63,Laki-laki,13,Pekerja,423,45,Makanan,Tidak,Layak
+840,841,20,Perempuan,38,Pelajar,569,29,Elektronik,Tidak,Tidak Layak
+841,842,26,Perempuan,16,Pelajar,739,69,Makanan,Tidak,Layak
+842,843,25,Perempuan,30,Tidak Bekerja,764,14,Elektronik,Ya,Tidak Layak
+843,844,26,Perempuan,47,Pekerja,597,42,Elektronik,Tidak,Tidak Layak
+844,845,40,Perempuan,37,Tidak Bekerja,505,97,Energi,Ya,Layak
+845,846,62,Laki-laki,15,Tidak Bekerja,437,14,Energi,Ya,Layak
+846,847,64,Perempuan,31,Pekerja,748,29,Elektronik,Ya,Tidak Layak
+847,848,21,Perempuan,2,Pelajar,809,47,Energi,Ya,Layak
+848,849,59,Perempuan,38,Pekerja,501,48,Elektronik,Ya,Layak
+849,850,36,Laki-laki,32,Tidak Bekerja,483,65,Elektronik,Tidak,Layak
+850,851,64,Laki-laki,31,Tidak Bekerja,645,66,Energi,Ya,Tidak Layak
+851,852,54,Perempuan,9,Pelajar,824,12,Makanan,Tidak,Tidak Layak
+852,853,41,Perempuan,16,Pekerja,594,44,Elektronik,Tidak,Tidak Layak
+853,854,30,Laki-laki,39,Tidak Bekerja,412,74,Makanan,Ya,Layak
+854,855,28,Perempuan,21,Pekerja,301,0,Elektronik,Ya,Layak
+855,856,36,Perempuan,8,Pekerja,701,49,Fashion,Ya,Tidak Layak
+856,857,36,Perempuan,17,Tidak Bekerja,380,71,Elektronik,Ya,Tidak Layak
+857,858,24,Laki-laki,33,Tidak Bekerja,592,13,Elektronik,Tidak,Tidak Layak
+858,859,56,Laki-laki,23,Tidak Bekerja,689,67,Fashion,Ya,Layak
+859,860,22,Laki-laki,11,Pelajar,662,22,Fashion,Tidak,Tidak Layak
+860,861,49,Perempuan,41,Pelajar,674,71,Energi,Tidak,Layak
+861,862,38,Laki-laki,16,Pekerja,752,8,Fashion,Ya,Layak
+862,863,47,Laki-laki,26,Pekerja,416,18,Elektronik,Ya,Tidak Layak
+863,864,37,Laki-laki,46,Tidak Bekerja,554,90,Fashion,Tidak,Tidak Layak
+864,865,40,Laki-laki,4,Tidak Bekerja,656,88,Energi,Ya,Tidak Layak
+865,866,25,Laki-laki,28,Pekerja,626,67,Energi,Tidak,Tidak Layak
+866,867,44,Perempuan,17,Tidak Bekerja,778,25,Elektronik,Ya,Tidak Layak
+867,868,59,Laki-laki,40,Pelajar,763,4,Fashion,Ya,Tidak Layak
+868,869,63,Perempuan,10,Pekerja,567,78,Energi,Tidak,Tidak Layak
+869,870,33,Perempuan,9,Pekerja,470,58,Elektronik,Tidak,Tidak Layak
+870,871,59,Perempuan,19,Tidak Bekerja,643,88,Fashion,Tidak,Layak
+871,872,60,Perempuan,3,Pekerja,527,38,Fashion,Tidak,Tidak Layak
+872,873,37,Laki-laki,9,Pekerja,723,67,Elektronik,Ya,Tidak Layak
+873,874,29,Laki-laki,37,Pekerja,512,36,Elektronik,Ya,Tidak Layak
+874,875,61,Perempuan,20,Pelajar,819,59,Makanan,Tidak,Layak
+875,876,19,Laki-laki,49,Pekerja,766,28,Energi,Tidak,Layak
+876,877,55,Laki-laki,10,Pekerja,624,81,Makanan,Ya,Tidak Layak
+877,878,62,Perempuan,30,Pekerja,563,68,Energi,Tidak,Layak
+878,879,39,Laki-laki,18,Pekerja,565,94,Fashion,Ya,Tidak Layak
+879,880,64,Perempuan,43,Tidak Bekerja,313,28,Makanan,Tidak,Layak
+880,881,18,Laki-laki,37,Tidak Bekerja,771,4,Fashion,Ya,Tidak Layak
+881,882,19,Laki-laki,15,Pelajar,317,37,Makanan,Tidak,Tidak Layak
+882,883,46,Laki-laki,17,Pekerja,757,48,Elektronik,Ya,Tidak Layak
+883,884,38,Laki-laki,25,Pelajar,511,81,Elektronik,Tidak,Layak
+884,885,60,Perempuan,13,Pekerja,478,40,Elektronik,Ya,Layak
+885,886,45,Laki-laki,27,Pekerja,778,61,Elektronik,Ya,Layak
+886,887,59,Laki-laki,32,Pekerja,453,20,Elektronik,Ya,Tidak Layak
+887,888,35,Perempuan,43,Tidak Bekerja,486,15,Makanan,Tidak,Tidak Layak
+888,889,52,Perempuan,14,Pekerja,698,33,Fashion,Tidak,Tidak Layak
+889,890,57,Laki-laki,49,Tidak Bekerja,452,92,Energi,Tidak,Layak
+890,891,57,Laki-laki,9,Tidak Bekerja,534,43,Elektronik,Ya,Tidak Layak
+891,892,19,Perempuan,47,Tidak Bekerja,455,71,Elektronik,Ya,Tidak Layak
+892,893,60,Laki-laki,14,Pekerja,818,49,Fashion,Ya,Layak
+893,894,35,Laki-laki,12,Pelajar,332,86,Energi,Ya,Layak
+894,895,26,Perempuan,8,Pelajar,612,89,Fashion,Tidak,Layak
+895,896,42,Perempuan,28,Tidak Bekerja,673,4,Makanan,Tidak,Layak
+896,897,59,Laki-laki,25,Tidak Bekerja,628,92,Elektronik,Tidak,Layak
+897,898,64,Perempuan,25,Tidak Bekerja,778,96,Elektronik,Ya,Tidak Layak
+898,899,54,Perempuan,15,Pelajar,535,28,Energi,Tidak,Layak
+899,900,58,Laki-laki,24,Pelajar,715,33,Fashion,Tidak,Tidak Layak
+900,901,53,Perempuan,48,Pelajar,467,46,Makanan,Ya,Tidak Layak
+901,902,34,Perempuan,10,Tidak Bekerja,727,12,Makanan,Tidak,Tidak Layak
+902,903,51,Laki-laki,39,Tidak Bekerja,737,7,Energi,Tidak,Tidak Layak
+903,904,46,Perempuan,6,Pekerja,564,92,Energi,Ya,Tidak Layak
+904,905,28,Perempuan,17,Pekerja,312,39,Energi,Tidak,Layak
+905,906,56,Laki-laki,41,Tidak Bekerja,601,87,Elektronik,Ya,Tidak Layak
+906,907,22,Laki-laki,15,Pelajar,613,90,Fashion,Tidak,Layak
+907,908,45,Laki-laki,22,Pelajar,776,92,Elektronik,Tidak,Tidak Layak
+908,909,46,Perempuan,6,Tidak Bekerja,560,50,Energi,Tidak,Layak
+909,910,47,Laki-laki,17,Pelajar,764,59,Elektronik,Tidak,Tidak Layak
+910,911,20,Perempuan,18,Pekerja,486,43,Elektronik,Ya,Tidak Layak
+911,912,55,Laki-laki,17,Pelajar,386,49,Energi,Tidak,Tidak Layak
+912,913,46,Laki-laki,33,Pelajar,713,41,Makanan,Tidak,Tidak Layak
+913,914,30,Laki-laki,26,Pekerja,738,4,Energi,Ya,Tidak Layak
+914,915,48,Perempuan,8,Pekerja,646,9,Makanan,Tidak,Tidak Layak
+915,916,25,Perempuan,35,Pelajar,754,1,Fashion,Tidak,Tidak Layak
+916,917,63,Laki-laki,33,Pekerja,789,38,Energi,Ya,Tidak Layak
+917,918,36,Perempuan,7,Tidak Bekerja,378,64,Fashion,Tidak,Tidak Layak
+918,919,26,Laki-laki,21,Pelajar,830,39,Fashion,Ya,Layak
+919,920,32,Perempuan,39,Pelajar,455,93,Fashion,Tidak,Layak
+920,921,40,Perempuan,4,Pelajar,824,61,Elektronik,Tidak,Layak
+921,922,54,Perempuan,47,Pelajar,351,25,Elektronik,Tidak,Tidak Layak
+922,923,40,Laki-laki,40,Pelajar,799,26,Makanan,Tidak,Tidak Layak
+923,924,39,Laki-laki,4,Pelajar,788,47,Fashion,Ya,Layak
+924,925,44,Perempuan,13,Pekerja,681,42,Makanan,Ya,Layak
+925,926,55,Perempuan,49,Pelajar,757,50,Makanan,Ya,Tidak Layak
+926,927,36,Laki-laki,14,Pelajar,339,93,Energi,Tidak,Layak
+927,928,41,Perempuan,26,Pekerja,577,32,Fashion,Ya,Tidak Layak
+928,929,57,Perempuan,6,Pekerja,762,1,Fashion,Ya,Layak
+929,930,58,Laki-laki,46,Pekerja,597,79,Fashion,Ya,Tidak Layak
+930,931,28,Perempuan,44,Pelajar,769,85,Makanan,Tidak,Tidak Layak
+931,932,42,Perempuan,37,Pekerja,815,83,Energi,Ya,Layak
+932,933,28,Laki-laki,31,Pelajar,623,81,Makanan,Tidak,Tidak Layak
+933,934,55,Perempuan,43,Pekerja,815,20,Elektronik,Ya,Layak
+934,935,35,Laki-laki,2,Tidak Bekerja,514,0,Makanan,Ya,Tidak Layak
+935,936,26,Perempuan,47,Pekerja,653,76,Elektronik,Ya,Tidak Layak
+936,937,37,Laki-laki,25,Tidak Bekerja,399,98,Energi,Tidak,Layak
+937,938,21,Perempuan,7,Pekerja,306,63,Fashion,Ya,Tidak Layak
+938,939,36,Perempuan,42,Pelajar,833,65,Fashion,Ya,Layak
+939,940,43,Perempuan,26,Pelajar,351,21,Makanan,Tidak,Tidak Layak
+940,941,38,Laki-laki,6,Pelajar,801,9,Energi,Ya,Tidak Layak
+941,942,22,Laki-laki,48,Pekerja,689,20,Makanan,Ya,Layak
+942,943,50,Perempuan,17,Tidak Bekerja,357,22,Elektronik,Ya,Tidak Layak
+943,944,25,Perempuan,30,Pekerja,603,46,Elektronik,Ya,Tidak Layak
+944,945,49,Laki-laki,11,Tidak Bekerja,348,69,Elektronik,Tidak,Layak
+945,946,61,Laki-laki,19,Tidak Bekerja,400,29,Elektronik,Ya,Layak
+946,947,42,Laki-laki,30,Pekerja,395,78,Makanan,Tidak,Tidak Layak
+947,948,38,Laki-laki,43,Tidak Bekerja,707,47,Fashion,Ya,Tidak Layak
+948,949,22,Laki-laki,47,Tidak Bekerja,798,7,Energi,Ya,Layak
+949,950,39,Laki-laki,37,Tidak Bekerja,642,80,Elektronik,Ya,Tidak Layak
+950,951,31,Laki-laki,48,Pekerja,437,96,Fashion,Tidak,Tidak Layak
+951,952,57,Laki-laki,33,Tidak Bekerja,324,67,Fashion,Tidak,Layak
+952,953,26,Perempuan,22,Pelajar,351,35,Elektronik,Ya,Layak
+953,954,28,Perempuan,18,Tidak Bekerja,731,72,Makanan,Tidak,Layak
+954,955,58,Perempuan,32,Pelajar,772,97,Elektronik,Tidak,Tidak Layak
+955,956,41,Perempuan,14,Tidak Bekerja,619,64,Elektronik,Ya,Tidak Layak
+956,957,40,Laki-laki,9,Pelajar,385,12,Energi,Tidak,Tidak Layak
+957,958,30,Perempuan,48,Pelajar,365,15,Elektronik,Ya,Layak
+958,959,38,Perempuan,19,Pekerja,304,96,Makanan,Ya,Tidak Layak
+959,960,52,Laki-laki,41,Tidak Bekerja,746,0,Energi,Tidak,Layak
+960,961,36,Perempuan,17,Tidak Bekerja,539,64,Energi,Tidak,Tidak Layak
+961,962,62,Perempuan,29,Pelajar,590,50,Fashion,Tidak,Layak
+962,963,21,Laki-laki,45,Tidak Bekerja,513,58,Energi,Ya,Layak
+963,964,33,Laki-laki,33,Tidak Bekerja,366,14,Makanan,Ya,Tidak Layak
+964,965,35,Perempuan,23,Pelajar,666,95,Makanan,Ya,Layak
+965,966,64,Perempuan,13,Pelajar,841,1,Elektronik,Ya,Layak
+966,967,64,Perempuan,44,Pelajar,590,2,Makanan,Ya,Layak
+967,968,64,Perempuan,26,Pekerja,751,81,Elektronik,Ya,Layak
+968,969,28,Laki-laki,43,Pekerja,323,5,Energi,Ya,Tidak Layak
+969,970,26,Perempuan,41,Pelajar,571,7,Makanan,Tidak,Layak
+970,971,21,Laki-laki,27,Pekerja,543,30,Elektronik,Tidak,Tidak Layak
+971,972,49,Perempuan,22,Pelajar,482,75,Elektronik,Ya,Tidak Layak
+972,973,51,Laki-laki,18,Pelajar,616,72,Fashion,Tidak,Layak
+973,974,45,Perempuan,16,Pelajar,789,83,Makanan,Ya,Tidak Layak
+974,975,32,Laki-laki,46,Pelajar,789,94,Energi,Ya,Layak
+975,976,34,Laki-laki,32,Pelajar,524,53,Energi,Ya,Tidak Layak
+976,977,39,Perempuan,22,Pelajar,706,55,Fashion,Tidak,Tidak Layak
+977,978,49,Perempuan,21,Pelajar,833,31,Energi,Ya,Layak
+978,979,57,Laki-laki,47,Pekerja,754,99,Makanan,Tidak,Tidak Layak
+979,980,48,Laki-laki,8,Pekerja,596,42,Fashion,Ya,Tidak Layak
+980,981,34,Perempuan,22,Pekerja,651,71,Makanan,Ya,Tidak Layak
+981,982,58,Perempuan,43,Pelajar,369,76,Elektronik,Ya,Tidak Layak
+982,983,51,Perempuan,40,Pekerja,666,9,Elektronik,Tidak,Layak
+983,984,35,Perempuan,36,Pelajar,473,37,Elektronik,Ya,Layak
+984,985,21,Perempuan,31,Pelajar,778,21,Elektronik,Tidak,Layak
+985,986,47,Perempuan,35,Tidak Bekerja,328,48,Energi,Tidak,Layak
+986,987,44,Perempuan,30,Pelajar,452,38,Energi,Ya,Layak
+987,988,58,Laki-laki,11,Tidak Bekerja,303,48,Fashion,Ya,Tidak Layak
+988,989,41,Perempuan,11,Pelajar,506,0,Elektronik,Tidak,Layak
+989,990,63,Laki-laki,20,Tidak Bekerja,514,33,Elektronik,Ya,Tidak Layak
+990,991,40,Perempuan,24,Pelajar,488,92,Makanan,Tidak,Tidak Layak
+991,992,26,Laki-laki,47,Pekerja,552,55,Energi,Tidak,Layak
+992,993,54,Perempuan,35,Tidak Bekerja,463,35,Elektronik,Tidak,Layak
+993,994,28,Laki-laki,41,Pelajar,630,25,Energi,Ya,Layak
+994,995,36,Laki-laki,27,Pelajar,837,11,Energi,Tidak,Tidak Layak
+995,996,54,Laki-laki,38,Pelajar,496,6,Makanan,Tidak,Tidak Layak
+996,997,46,Laki-laki,9,Pelajar,775,83,Fashion,Ya,Layak
+997,998,36,Perempuan,46,Pelajar,798,90,Makanan,Ya,Tidak Layak
+998,999,38,Perempuan,8,Pelajar,617,25,Energi,Tidak,Layak
+999,1000,34,Laki-laki,32,Pekerja,386,44,Energi,Tidak,Layak
